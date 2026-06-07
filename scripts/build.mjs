@@ -6,6 +6,7 @@ import { z } from "zod";
 const ROOT = path.resolve(import.meta.dirname, "..");
 const DATA = path.join(ROOT, "data");
 const DIST = path.join(ROOT, "dist");
+const PKG = JSON.parse(fs.readFileSync(path.join(ROOT, "package.json"), "utf8"));
 
 const CATEGORIES = [
   "anatomy", "behavior", "communication",
@@ -128,6 +129,15 @@ function main() {
       dayOfYear++;
     }
   }
+
+  writeJson("api/index.json", {
+    total_facts: facts.length,
+    total_species: species.length,
+    generated_at: new Date().toISOString(),
+    version: PKG.version,
+  });
+
+  fs.writeFileSync(path.join(DIST, ".nojekyll"), "");
 
   console.log(`Built ${facts.length} facts, ${species.length} species → ${DIST}`);
 }
