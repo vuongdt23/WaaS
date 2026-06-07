@@ -81,6 +81,10 @@ function main() {
 
   writeJson("api/facts.json", facts);
 
+  for (const fact of facts) {
+    writeJson(`api/facts/${fact.id}.json`, fact);
+  }
+
   console.log(`Built ${facts.length} facts, ${species.length} species → ${DIST}`);
 }
 
