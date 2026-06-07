@@ -1,0 +1,42 @@
+- id: blue-whale-loudest
+  text: >
+    Blue whales are among the loudest animals on Earth — their calls
+    can reach 188 decibels and travel hundreds of miles underwater.
+  species: blue
+  category: communication
+  source: https://www.fisheries.noaa.gov/species/blue-whale
+
+- id: orca-cultural-dialects
+  text: >
+    Different orca pods have distinct vocal dialects passed down across
+    generations, and these dialects are stable enough that researchers
+    can identify a pod from a single recording.
+  species: orca
+  category: communication
+  source: https://www.fisheries.noaa.gov/species/killer-whale
+
+- id: humpback-bubble-net
+  text: >
+    Humpback whales hunt cooperatively by blowing rings of bubbles around
+    schools of fish, herding them into a tight ball before lunging through
+    the center with mouths wide open.
+  species: humpback
+  category: behavior
+  source: https://oceanservice.noaa.gov/facts/humpback.html
+
+- id: sperm-whale-deepest-dive
+  text: >
+    Sperm whales routinely dive deeper than 2,000 meters in search of
+    giant squid, holding their breath for over an hour at a time.
+  species: sperm
+  category: behavior
+  source: https://www.fisheries.noaa.gov/species/sperm-whale
+
+- id: narwhal-tusk-is-a-tooth
+  text: >
+    A narwhal's tusk is actually a single elongated tooth that grows
+    through its upper lip, packed with millions of nerve endings that
+    let the animal sense changes in seawater.
+  species: narwhal
+  category: anatomy
+  source: https://ocean.si.edu/ocean-life/marine-mammals/narwhals

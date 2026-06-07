@@ -1,0 +1,31 @@
+- slug: blue
+  common_name: Blue whale
+  scientific_name: Balaenoptera musculus
+
+- slug: orca
+  common_name: Orca
+  scientific_name: Orcinus orca
+
+- slug: humpback
+  common_name: Humpback whale
+  scientific_name: Megaptera novaeangliae
+
+- slug: sperm
+  common_name: Sperm whale
+  scientific_name: Physeter macrocephalus
+
+- slug: beluga
+  common_name: Beluga whale
+  scientific_name: Delphinapterus leucas
+
+- slug: narwhal
+  common_name: Narwhal
+  scientific_name: Monodon monoceros
+
+- slug: gray
+  common_name: Gray whale
+  scientific_name: Eschrichtius robustus
+
+- slug: bowhead
+  common_name: Bowhead whale
+  scientific_name: Balaena mysticetus
