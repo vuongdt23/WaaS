@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Whale as a Service — a static JSON API of whale facts</title>
+  <meta name="description" content="A static JSON API of hand-curated whale facts. No keys, no rate limits." />
+  <meta property="og:title" content="Whale as a Service" />
+  <meta property="og:description" content="A static JSON API of hand-curated whale facts." />
+  <link rel="stylesheet" href="./styles.css" />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ctext x='4' y='52' font-size='52'%3E%F0%9F%AB%8D%3C/text%3E%3C/svg%3E" />
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="./">
+      <span class="brand-mark" aria-hidden="true">🫍</span>
+      <span class="brand-text">Whale as a Service</span>
+    </a>
+    <nav class="topnav">
+      <a href="#docs">Docs</a>
+      <a href="https://github.com/" id="repo-link" rel="noopener">GitHub</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-mark" aria-hidden="true">🫍</div>
+      <h1 class="hero-title">Whale as a Service</h1>
+      <p class="hero-tagline">A static JSON API. <span id="fact-count">50</span> hand-curated whale facts. No keys, no limits.</p>
+      <button type="button" class="curl-pill" data-copy="curl https://example.com/api/random.json">
+        <span class="curl-prompt">$</span>
+        <code id="curl-text">curl https://example.com/api/random.json</code>
+        <span class="curl-hint">click to copy</span>
+      </button>
+    </section>
+
+    <section class="featured" aria-labelledby="featured-label">
+      <article class="fact-card" id="fact-card" aria-live="polite">
+        <header class="fact-card-head">
+          <span id="featured-label" class="fact-label">Today's fact</span>
+          <button type="button" id="reroll" class="reroll" aria-label="Show another fact">↻</button>
+        </header>
+        <p class="fact-text" id="fact-text">Loading a whale fact…</p>
+        <footer class="fact-meta" id="fact-meta"></footer>
+      </article>
+    </section>
+
+    <section id="docs" class="endpoints">
+      <h2 class="endpoints-heading">Endpoints</h2>
+      <ul class="endpoint-list">
+        <li><code class="endpoint" data-curl>GET /api/facts.json</code><span class="endpoint-desc">all facts</span></li>
+        <li><code class="endpoint" data-curl>GET /api/facts/{id}.json</code><span class="endpoint-desc">one fact</span></li>
+        <li><code class="endpoint" data-curl>GET /api/random.json</code><span class="endpoint-desc">random (rotates per deploy)</span></li>
+        <li><code class="endpoint" data-curl>GET /api/fact-of-the-day/{MM-DD}.json</code><span class="endpoint-desc">deterministic by date</span></li>
+        <li><code class="endpoint" data-curl>GET /api/species.json</code><span class="endpoint-desc">species index</span></li>
+        <li><code class="endpoint" data-curl>GET /api/species/{slug}.json</code><span class="endpoint-desc">species + its facts</span></li>
+        <li><code class="endpoint" data-curl>GET /api/categories.json</code><span class="endpoint-desc">category list</span></li>
+        <li><code class="endpoint" data-curl>GET /api/index.json</code><span class="endpoint-desc">meta</span></li>
+      </ul>
+    </section>
+
+    <footer class="page-foot">
+      <p>Code: MIT. Data: <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>. Built with Node + GitHub Pages.</p>
+    </footer>
+  </main>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <script type="module" src="./main.js"></script>
+</body>
+</html>
