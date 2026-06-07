@@ -65,6 +65,10 @@ function writeJson(relPath, data) {
   fs.writeFileSync(full, JSON.stringify(data, null, 2) + "\n");
 }
 
+function factsForSpecies(slug, facts) {
+  return facts.filter((f) => f.species === slug);
+}
+
 function main() {
   const species = readYaml("species.yaml");
   const facts = readYaml("facts.yaml");
@@ -83,6 +87,19 @@ function main() {
 
   for (const fact of facts) {
     writeJson(`api/facts/${fact.id}.json`, fact);
+  }
+
+  const speciesIndex = species.map((s) => ({
+    ...s,
+    count: factsForSpecies(s.slug, facts).length,
+  }));
+  writeJson("api/species.json", speciesIndex);
+
+  for (const s of species) {
+    writeJson(`api/species/${s.slug}.json`, {
+      ...s,
+      facts: factsForSpecies(s.slug, facts),
+    });
   }
 
   console.log(`Built ${facts.length} facts, ${species.length} species → ${DIST}`);
