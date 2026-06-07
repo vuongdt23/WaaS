@@ -69,6 +69,14 @@ function factsForSpecies(slug, facts) {
   return facts.filter((f) => f.species === slug);
 }
 
+function pickByIndex(facts, idx) {
+  return facts[((idx % facts.length) + facts.length) % facts.length];
+}
+
+function dayKey(month, day) {
+  return `${String(month).padStart(2, "0")}-${String(day).padStart(2, "0")}`;
+}
+
 function main() {
   const species = readYaml("species.yaml");
   const facts = readYaml("facts.yaml");
@@ -107,6 +115,19 @@ function main() {
     count: facts.filter((f) => f.category === cat).length,
   })).filter((c) => c.count > 0);
   writeJson("api/categories.json", categoryIndex);
+
+  const randomFact = facts[Math.floor(Math.random() * facts.length)];
+  writeJson("api/random.json", randomFact);
+
+  const daysInMonth = [31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
+  let dayOfYear = 0;
+  for (let m = 1; m <= 12; m++) {
+    for (let d = 1; d <= daysInMonth[m - 1]; d++) {
+      const key = dayKey(m, d);
+      writeJson(`api/fact-of-the-day/${key}.json`, pickByIndex(facts, dayOfYear));
+      dayOfYear++;
+    }
+  }
 
   console.log(`Built ${facts.length} facts, ${species.length} species → ${DIST}`);
 }
