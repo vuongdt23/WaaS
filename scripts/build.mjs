@@ -139,6 +139,13 @@ function main() {
 
   fs.writeFileSync(path.join(DIST, ".nojekyll"), "");
 
+  const SITE = path.join(ROOT, "site");
+  if (fs.existsSync(SITE)) {
+    for (const entry of fs.readdirSync(SITE)) {
+      fs.copyFileSync(path.join(SITE, entry), path.join(DIST, entry));
+    }
+  }
+
   console.log(`Built ${facts.length} facts, ${species.length} species → ${DIST}`);
 }
 
