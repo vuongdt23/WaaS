@@ -102,6 +102,12 @@ function main() {
     });
   }
 
+  const categoryIndex = CATEGORIES.map((cat) => ({
+    category: cat,
+    count: facts.filter((f) => f.category === cat).length,
+  })).filter((c) => c.count > 0);
+  writeJson("api/categories.json", categoryIndex);
+
   console.log(`Built ${facts.length} facts, ${species.length} species → ${DIST}`);
 }
 
