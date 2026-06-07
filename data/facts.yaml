@@ -40,3 +40,978 @@
   species: narwhal
   category: anatomy
   source: https://ocean.si.edu/ocean-life/marine-mammals/narwhals
+
+# --- ORCA: ECOTYPES & POPULATIONS ---
+
+- id: orca-resident-vs-transient
+  text: >
+    In the North Pacific, fish-eating Resident orcas and mammal-eating
+    Bigg's (Transient) orcas share the same waters but do not interbreed,
+    forming genetically and behaviorally distinct populations.
+  species: orca
+  category: behavior
+  source: https://www.fisheries.noaa.gov/species/killer-whale
+
+- id: orca-offshore-shark-eaters
+  text: >
+    Offshore orcas of the northeastern Pacific specialize in hunting
+    sharks, including Pacific sleeper sharks, and their teeth are often
+    worn flat from gnawing through abrasive shark skin.
+  species: orca
+  category: diet
+  source: https://en.wikipedia.org/wiki/Killer_whale
+
+- id: orca-southern-residents-endangered
+  text: >
+    The Southern Resident orcas of the Salish Sea are one of the most
+    closely tracked whale populations on Earth, with fewer than 80
+    individuals remaining despite decades of protection.
+  species: orca
+  category: habitat
+  source: https://www.fisheries.noaa.gov/species/killer-whale
+
+- id: orca-type-d-subantarctic
+  text: >
+    Type D orcas, found in remote subantarctic waters, have such tiny
+    eyepatches and bulbous heads that they look like a different species
+    — and they show some of the lowest genetic diversity of any mammal.
+  species: orca
+  category: anatomy
+  source: https://www.fisheries.noaa.gov/feature-story/long-isolated-killer-whales-maintain-small-population-spanning-oceans
+
+- id: orca-ten-ecotypes
+  text: >
+    Scientists now recognize at least eight to ten distinct orca
+    ecotypes worldwide, and some researchers argue several deserve
+    recognition as separate species rather than one global Orcinus orca.
+  species: orca
+  category: trivia
+  source: https://iwc.int/about-whales/whale-species/killer-whale
+
+# --- ORCA: HUNTING ---
+
+- id: orca-patagonia-beaching
+  text: >
+    A few orcas at Argentina's Península Valdés deliberately strand
+    themselves on the beach to snatch sea lion pups from the surf —
+    a risky technique mothers spend years teaching their calves.
+  species: orca
+  category: behavior
+  source: https://www.nationalgeographic.com/animals/article/animals-up-close-wave-washing-killer-whales
+
+- id: orca-wave-washing-seals
+  text: >
+    Antarctic pack-ice orcas hunt in synchronized lines, swimming
+    shoulder-to-shoulder to generate waves that wash Weddell seals
+    off ice floes and into waiting jaws.
+  species: orca
+  category: behavior
+  source: https://www.nationalgeographic.com/animals/article/animals-up-close-wave-washing-killer-whales
+
+- id: orca-great-white-livers
+  text: >
+    Off South Africa and Mexico, orcas have been filmed killing great
+    white sharks and surgically removing only their massive, oil-rich
+    livers — sometimes leaving the rest of the carcass untouched.
+  species: orca
+  category: diet
+  source: https://www.nationalgeographic.com/animals/article/orcas-spotted-hunting-great-white-sharks
+
+- id: orca-kills-blue-whale
+  text: >
+    In 2019, scientists off Western Australia documented for the first
+    time orcas coordinating to kill an adult blue whale, confirming
+    they can hunt the largest animal that has ever lived.
+  species: orca
+  category: behavior
+  source: https://www.nationalgeographic.com/animals/article/orcas-can-kill-blue-whales-the-biggest-animal-on-earth
+
+- id: orca-eats-tongue
+  text: >
+    When attacking large baleen whales, orcas often target only the
+    fatty tongue, biting it free and abandoning thousands of kilograms
+    of meat behind.
+  species: orca
+  category: diet
+  source: https://www.fisheries.noaa.gov/species/killer-whale
+
+- id: orca-iberian-boat-attacks
+  text: >
+    Since 2020, a small group of orcas off the Iberian Peninsula has
+    rammed and disabled hundreds of sailboats, snapping rudders without
+    ever injuring a single human in the process.
+  species: orca
+  category: behavior
+  source: https://en.wikipedia.org/wiki/Iberian_orca_attacks
+
+- id: orca-hunts-sea-otters
+  text: >
+    In parts of the North Pacific, transient orcas began preying on
+    sea otters in the 1990s — a shift dramatic enough to trigger
+    cascading collapse in nearby kelp forest ecosystems.
+  species: orca
+  category: diet
+  source: https://en.wikipedia.org/wiki/Sea_otter
+
+- id: orca-eats-moose
+  text: >
+    Stomach-content studies have turned up the remains of swimming
+    moose and deer in orca bellies — terrestrial mammals snatched
+    while attempting to cross open channels in southeast Alaska.
+  species: orca
+  category: diet
+  source: https://www.marinebio.org/species/orcas-killer-whales/orcinus-orca/
+
+- id: orca-herring-bait-balls
+  text: >
+    North Atlantic orcas herd herring into tight bait balls using
+    coordinated calls, then stun whole schools with sweeping tail
+    slaps before picking off stunned fish one by one.
+  species: orca
+  category: behavior
+  source: https://en.wikipedia.org/wiki/Orca
+
+# --- ORCA: ANATOMY ---
+
+- id: orca-tallest-dorsal-fin
+  text: >
+    Adult male orcas grow the tallest dorsal fin of any marine mammal
+    — up to about 1.8 meters (6 feet) — making mature males
+    instantly recognizable from the surface.
+  species: orca
+  category: anatomy
+  source: https://oceantoday.noaa.gov/killerwhaleanatomy/
+
+- id: orca-dorsal-collapse-captivity
+  text: >
+    Almost every adult male orca in captivity has a fully collapsed
+    dorsal fin, a condition vanishingly rare in the wild and linked
+    to long hours at the surface, gravity, and cramped tanks.
+  species: orca
+  category: anatomy
+  source: https://en.wikipedia.org/wiki/Captive_orcas
+
+- id: orca-eyes-not-eyespots
+  text: >
+    The famous white "eyespots" behind an orca's face are not its
+    eyes at all — the actual eyes sit small and dark just below
+    and forward of those patches.
+  species: orca
+  category: anatomy
+  source: https://oceantoday.noaa.gov/killerwhaleanatomy/
+
+- id: orca-interlocking-teeth
+  text: >
+    Orcas have 40 to 56 conical teeth that interlock when the jaws
+    close, each up to 7.5 cm long, but they swallow most prey in
+    chunks rather than chewing.
+  species: orca
+  category: anatomy
+  source: https://oceantoday.noaa.gov/killerwhaleanatomy/
+
+- id: orca-female-outlives-male
+  text: >
+    Female orcas often live 80 years or more, while males rarely
+    pass 50 — one of the largest lifespan gaps between sexes in
+    any mammal.
+  species: orca
+  category: anatomy
+  source: https://en.wikipedia.org/wiki/Orca
+
+- id: orca-half-brain-sleep
+  text: >
+    Orcas sleep with one half of the brain at a time, an adaptation
+    called unihemispheric slow-wave sleep that lets them keep
+    breathing and watching for danger while resting.
+  species: orca
+  category: anatomy
+  source: https://en.wikipedia.org/wiki/Orca
+
+- id: orca-second-largest-brain
+  text: >
+    The orca brain weighs about 6 kilograms — second only to the
+    sperm whale's among living animals — and is among the most
+    convolved brains ever studied.
+  species: orca
+  category: anatomy
+  source: https://en.wikipedia.org/wiki/Orca
+
+# --- ORCA: SOCIAL & FAMILY ---
+
+- id: orca-sons-stay-with-mom
+  text: >
+    Resident orca sons remain with their mothers for life, a level
+    of family loyalty unmatched in any other known mammal species.
+  species: orca
+  category: behavior
+  source: https://en.wikipedia.org/wiki/Orca
+
+- id: orca-matriline-six-generations
+  text: >
+    A single orca matriline can span up to six living generations,
+    led by an aging matriarch who passes on hunting routes and
+    vocal traditions to her descendants.
+  species: orca
+  category: behavior
+  source: https://en.wikipedia.org/wiki/Orca
+
+- id: orca-menopause
+  text: >
+    Orcas are one of only a handful of species — including humans
+    and a few other toothed whales — in which females undergo
+    menopause and live for decades after their last calf.
+  species: orca
+  category: reproduction
+  source: https://www.science.org/content/article/study-suggests-surprising-reason-killer-whales-go-through-menopause
+
+- id: orca-grandmother-effect
+  text: >
+    Post-reproductive orca grandmothers significantly improve their
+    grandcalves' survival, especially in lean salmon years —
+    direct evidence for the "grandmother hypothesis" in cetaceans.
+  species: orca
+  category: reproduction
+  source: https://www.smithsonianmag.com/science-nature/after-menopause-killer-whale-moms-become-pod-leaders-180954480/
+
+- id: orca-mom-helps-son
+  text: >
+    Studies of Pacific Northwest orcas show that adult sons whose
+    mothers die are far more likely to die themselves within the
+    next few years, even when the sons are fully grown.
+  species: orca
+  category: behavior
+  source: https://www.york.ac.uk/news-and-events/features/killer-whales/
+
+- id: orca-alloparenting
+  text: >
+    In many orca pods, aunts, uncles, and older siblings of both
+    sexes help guard and play with calves — a form of cooperative
+    childcare known as alloparenting.
+  species: orca
+  category: behavior
+  source: https://en.wikipedia.org/wiki/Orca
+
+# --- ORCA: COMMUNICATION ---
+
+- id: orca-three-sound-types
+  text: >
+    Orcas produce three distinct kinds of vocalizations — clicks
+    for echolocation, whistles for close-range chatter, and pulsed
+    calls that carry pod identity over long distances.
+  species: orca
+  category: communication
+  source: https://en.wikipedia.org/wiki/Orca
+
+- id: orca-salmon-hat-fad
+  text: >
+    In the summer of 1987, a female orca off Puget Sound began
+    wearing a dead salmon balanced on her head; within weeks the
+    fad had spread to two other pods, then mysteriously vanished.
+  species: orca
+  category: behavior
+  source: https://www.smithsonianmag.com/smart-news/no-orcas-probably-arent-reviving-the-dead-salmon-hat-trend-despite-a-viral-photo-experts-say-heres-why-180985559/
+
+- id: orca-salmon-hat-returns
+  text: >
+    In late 2024, after almost four decades, Pacific Northwest
+    orcas were photographed sporting salmon "hats" again,
+    reviving a cultural fad researchers still cannot explain.
+  species: orca
+  category: trivia
+  source: https://www.livescience.com/animals/orcas/orcas-start-wearing-dead-salmon-hats-again-after-ditching-the-trend-for-37-years
+
+- id: orca-mimics-human-speech
+  text: >
+    A captive orca named Wikie learned to imitate human words like
+    "hello," "bye-bye," and her trainer's name, demonstrating
+    vocal mimicry rare among non-human mammals.
+  species: orca
+  category: communication
+  source: https://phys.org/news/2018-01-whale-words-orca-mimics-human.html
+
+- id: orca-clan-dialects-stable
+  text: >
+    Resident orca clans share core call types that have stayed
+    recognizable for at least four decades of recordings — a
+    cultural lineage on a timescale comparable to human languages.
+  species: orca
+  category: communication
+  source: https://en.wikipedia.org/wiki/Orca
+
+# --- ORCA: HABITAT ---
+
+- id: orca-every-ocean
+  text: >
+    Orcas are the most widely distributed mammal on Earth after
+    humans, found in every ocean from the Arctic ice edge to the
+    equator and even occasionally in tropical river mouths.
+  species: orca
+  category: habitat
+  source: https://en.wikipedia.org/wiki/Orca
+
+- id: orca-sprint-speed
+  text: >
+    Orcas typically cruise at 3–4 mph but can sprint at over
+    30 mph in short bursts, making them the fastest of all
+    cetaceans when chasing prey.
+  species: orca
+  category: anatomy
+  source: https://whalemuseum.org/pages/frequently-asked-questions-about-the-southern-resident-endangered-orcas
+
+- id: orca-100-mile-day
+  text: >
+    Orca pods routinely cover up to 160 kilometers (100 miles)
+    in a single day while foraging, far more than most other
+    large whales.
+  species: orca
+  category: habitat
+  source: https://en.wikipedia.org/wiki/Orca
+
+- id: orca-river-incursions
+  text: >
+    Orcas have been recorded swimming many kilometers up the
+    Columbia, Fraser, and other major rivers, occasionally
+    chasing salmon well into freshwater.
+  species: orca
+  category: habitat
+  source: https://en.wikipedia.org/wiki/Orca
+
+# --- ORCA: HISTORY ---
+
+- id: orca-moby-doll-1964
+  text: >
+    The modern era of orca captivity began in 1964 when a young
+    male harpooned off Vancouver, later named Moby Doll, became
+    the first orca ever displayed alive to the public.
+  species: orca
+  category: history
+  source: https://en.wikipedia.org/wiki/Captive_orcas
+
+- id: orca-keiko-free-willy
+  text: >
+    Keiko, the orca who starred in Free Willy, was eventually
+    flown from Mexico City to an Icelandic sea pen in 1998 and
+    became the first captive orca ever returned to the open ocean.
+  species: orca
+  category: history
+  source: https://en.wikipedia.org/wiki/Keiko_(orca)
+
+- id: orca-tilikum
+  text: >
+    Tilikum, captured off Iceland in 1983, was implicated in the
+    deaths of three people in captivity and became the central
+    figure of the 2013 documentary Blackfish.
+  species: orca
+  category: history
+  source: https://en.wikipedia.org/wiki/Tilikum_(killer_whale)
+
+- id: orca-lolita-tokitae
+  text: >
+    Lolita, also called Tokitae, was taken from Washington's
+    Southern Residents in 1970 and spent more than 50 years
+    in the same Miami tank before her death in 2023.
+  species: orca
+  category: history
+  source: https://en.wikipedia.org/wiki/Lolita_(orca)
+
+- id: orca-asesina-ballenas
+  text: >
+    The English name "killer whale" is a translation flip of
+    the Spanish whalers' "asesina ballenas" — literally
+    "whale killer" — for what they saw orcas do to large whales.
+  species: orca
+  category: history
+  source: https://en.wikipedia.org/wiki/Orca
+
+- id: orca-orcinus-underworld
+  text: >
+    The scientific name Orcinus orca traces back to the Latin
+    Orcus, a Roman god of the underworld, reflecting the
+    classical view of orcas as fearsome creatures.
+  species: orca
+  category: history
+  source: https://en.wikipedia.org/wiki/Orca
+
+- id: orca-old-tom-eden
+  text: >
+    For nearly a century, orcas led by a male called Old Tom
+    cooperated with whalers in Eden, Australia, herding baleen
+    whales toward boats in exchange for the lips and tongues.
+  species: orca
+  category: history
+  source: https://www.nma.gov.au/defining-moments/resources/old-tom-the-killer-whale-in-eden
+
+- id: orca-granny-j2
+  text: >
+    Granny, the matriarch of the J pod, was estimated to be
+    well over 80 years old when she vanished in 2016, making
+    her one of the oldest known wild orcas.
+  species: orca
+  category: history
+  source: https://en.wikipedia.org/wiki/Granny_(killer_whale)
+
+# --- ORCA: REPRODUCTION ---
+
+- id: orca-17-month-pregnancy
+  text: >
+    Orca pregnancies last about 17 months — among the longest
+    of any cetacean — and females usually give birth to a
+    single calf only every 3 to 8 years.
+  species: orca
+  category: reproduction
+  source: https://en.wikipedia.org/wiki/Orca
+
+- id: orca-calf-mortality
+  text: >
+    Demographic studies estimate that 37 to 50 percent of
+    orca calves die in their first six to seven months,
+    explaining the species' slow population growth even in
+    healthy waters.
+  species: orca
+  category: reproduction
+  source: https://en.wikipedia.org/wiki/Orca
+
+- id: orca-cross-pod-mating
+  text: >
+    Orcas avoid inbreeding by mating only with members of
+    other matrilines or pods, often during brief inter-pod
+    "greeting ceremonies" that mix the lineages.
+  species: orca
+  category: reproduction
+  source: https://en.wikipedia.org/wiki/Orca
+
+# --- ORCA: TRIVIA / MISC ---
+
+- id: orca-no-wild-human-deaths
+  text: >
+    There has never been a confirmed fatal attack by a wild
+    orca on a human, despite the species' fearsome reputation
+    and global overlap with people in boats and the surf.
+  species: orca
+  category: trivia
+  source: https://en.wikipedia.org/wiki/Orca_attacks_on_humans
+
+- id: orca-gifts-to-humans
+  text: >
+    A 2025 study catalogued 34 cases worldwide where wild
+    orcas brought prey — fish, rays, even seaweed — to
+    nearby humans and waited, as if offering gifts.
+  species: orca
+  category: behavior
+  source: https://www.smithsonianmag.com/smart-news/orcas-appear-to-be-sharing-their-prey-with-humans-but-what-does-it-mean-180986913/
+
+- id: orca-pcb-contamination
+  text: >
+    Despite a global ban in 2001, banned PCBs accumulated in
+    blubber are projected to wipe out half of the world's
+    orca populations within a few decades.
+  species: orca
+  category: trivia
+  source: https://www.nationalgeographic.com/environment/article/orcas-killer-whales-poisoned-pcbs-pollution
+
+- id: orca-noise-pollution
+  text: >
+    Underwater noise from passing ships measurably masks Southern
+    Resident orca calls and reduces foraging efficiency, helping
+    drive the population's slow decline despite ample habitat.
+  species: orca
+  category: trivia
+  source: https://orca.wa.gov/recommendation-category/vessels-disturb-orcas/
+
+- id: orca-not-a-whale
+  text: >
+    Despite the name, orcas are technically the largest member
+    of the dolphin family Delphinidae — making the killer whale
+    really a killer dolphin.
+  species: orca
+  category: trivia
+  source: https://en.wikipedia.org/wiki/Orca
+
+# --- BLUE WHALE ---
+
+- id: blue-whale-largest-ever
+  text: >
+    Blue whales reach over 30 meters long and 190 tons —
+    making them the largest animal known to have ever existed,
+    bigger than any dinosaur in the fossil record.
+  species: blue
+  category: anatomy
+  source: https://www.britannica.com/animal/blue-whale
+
+- id: blue-whale-heart
+  text: >
+    A blue whale's heart weighs about 180 kilograms — roughly
+    the size of a small car — and pumps around 10 tons of
+    blood through its body.
+  species: blue
+  category: anatomy
+  source: https://www.ifaw.org/animals/blue-whales
+
+- id: blue-whale-krill-tons
+  text: >
+    A feeding blue whale can eat about 4 tons of krill in
+    a single day, swallowing tens of millions of the tiny
+    crustaceans during the polar summer.
+  species: blue
+  category: diet
+  source: https://www.worldwildlife.org/species/blue-whale
+
+- id: blue-whale-calf-growth
+  text: >
+    Blue whale calves are born around 7 meters long and
+    gain roughly 90 kilograms (200 pounds) every day on
+    their mother's fat-rich milk.
+  species: blue
+  category: reproduction
+  source: https://www.marinemammalcenter.org/animal-care/learn-about-marine-mammals/cetaceans/blue-whale
+
+- id: blue-whale-population
+  text: >
+    Industrial whaling reduced blue whales to a few percent
+    of their original numbers; today an estimated 10,000 to
+    25,000 remain — still classified as endangered by the IUCN.
+  species: blue
+  category: history
+  source: https://en.wikipedia.org/wiki/Blue_whale
+
+- id: blue-whale-lifespan
+  text: >
+    Blue whales are believed to live 80 to 90 years in the
+    wild, though earplug-layer counts of older animals
+    suggest some may exceed 100.
+  species: blue
+  category: anatomy
+  source: https://animaldiversity.org/accounts/Balaenoptera_musculus/
+
+- id: blue-whale-tongue-elephant
+  text: >
+    A blue whale's tongue alone can weigh as much as an
+    adult elephant — about 2.7 tons — and helps push
+    seawater out through the baleen during feeding.
+  species: blue
+  category: anatomy
+  source: https://www.nationalgeographic.com/animals/mammals/facts/blue-whale
+
+# --- HUMPBACK WHALE ---
+
+- id: humpback-song-revolution
+  text: >
+    Every few years, all the male humpbacks in an ocean
+    basin abandon their old song and adopt a brand-new one
+    learned from a neighboring population — a true cultural revolution.
+  species: humpback
+  category: communication
+  source: https://www.discovermagazine.com/humpback-whales-go-through-a-cultural-revolution-every-few-years-417
+
+- id: humpback-longest-migration
+  text: >
+    Humpbacks make the longest migration of any mammal,
+    swimming up to 8,000 kilometers each way between polar
+    feeding grounds and tropical breeding areas.
+  species: humpback
+  category: behavior
+  source: https://www.guinnessworldrecords.com/world-records/longest-mammal-migration
+
+- id: humpback-megaptera-name
+  text: >
+    The genus name Megaptera means "big wing," referring to
+    the humpback's pectoral fins — at up to one-third of body
+    length, the longest appendages of any whale.
+  species: humpback
+  category: anatomy
+  source: https://www.fisheries.noaa.gov/species/humpback-whale
+
+- id: humpback-breach-purpose
+  text: >
+    Humpbacks may breach to communicate over long distances:
+    the boom of a 30-ton body slamming the surface can be
+    heard underwater for kilometers.
+  species: humpback
+  category: behavior
+  source: https://www.fisheries.noaa.gov/species/humpback-whale
+
+- id: humpback-population-recovery
+  text: >
+    After near-extinction from whaling, many humpback
+    populations are now growing 10 percent or more per year,
+    one of the great conservation success stories at sea.
+  species: humpback
+  category: history
+  source: https://www.fisheries.noaa.gov/species/humpback-whale
+
+- id: humpback-individual-flukes
+  text: >
+    Each humpback has a unique pattern on the underside of
+    its tail flukes, allowing researchers to identify
+    individuals across decades of photographs.
+  species: humpback
+  category: anatomy
+  source: https://www.fisheries.noaa.gov/species/humpback-whale
+
+- id: humpback-protect-other-species
+  text: >
+    Humpback whales have been observed in dozens of cases
+    actively defending seals, dolphins, and other species
+    from attacking orcas, even when not threatened themselves.
+  species: humpback
+  category: behavior
+  source: https://www.nationalgeographic.com/animals/article/humpback-whales-save-animals-killer-whales-explained
+
+# --- SPERM WHALE ---
+
+- id: sperm-whale-biggest-brain
+  text: >
+    Sperm whales have the largest brain of any animal on
+    Earth — about 7.8 kilograms in adult males, roughly
+    five times heavier than a human brain.
+  species: sperm
+  category: anatomy
+  source: https://www.fisheries.noaa.gov/species/sperm-whale
+
+- id: sperm-whale-spermaceti
+  text: >
+    Inside a sperm whale's blocky head sits the spermaceti
+    organ, a chamber holding up to 1,900 liters of waxy oil
+    that focuses its booming echolocation clicks.
+  species: sperm
+  category: anatomy
+  source: https://en.wikipedia.org/wiki/Sperm_whale
+
+- id: sperm-whale-codas
+  text: >
+    Sperm whales communicate in patterned click sequences
+    called codas, and entire ocean-wide "clans" share a
+    distinctive coda dialect that calves learn from kin.
+  species: sperm
+  category: communication
+  source: https://www.fisheries.noaa.gov/species/sperm-whale
+
+- id: sperm-whale-loudest-clicks
+  text: >
+    A sperm whale's echolocation clicks can hit roughly
+    230 decibels underwater — among the loudest sounds
+    any animal is known to make.
+  species: sperm
+  category: communication
+  source: https://en.wikipedia.org/wiki/Sperm_whale
+
+- id: sperm-whale-vertical-sleep
+  text: >
+    Sperm whales nap by drifting vertically in the water
+    column, head up or down, in tight clusters that hold
+    perfectly still for 10 to 15 minutes at a time.
+  species: sperm
+  category: behavior
+  source: https://en.wikipedia.org/wiki/Sperm_whale
+
+- id: sperm-whale-ambergris
+  text: >
+    Ambergris, a waxy substance occasionally produced in
+    a sperm whale's gut and expelled at sea, was historically
+    so prized for perfumery that it was called "floating gold."
+  species: sperm
+  category: trivia
+  source: https://en.wikipedia.org/wiki/Ambergris
+
+- id: sperm-whale-matrilineal
+  text: >
+    Female sperm whales spend their lives in tight
+    matrilineal groups, while adult males roam alone for
+    years and only return to warm waters to breed.
+  species: sperm
+  category: behavior
+  source: https://www.fisheries.noaa.gov/species/sperm-whale
+
+# --- BELUGA ---
+
+- id: beluga-canary-of-the-sea
+  text: >
+    Belugas are nicknamed "canaries of the sea" for the
+    chirps, whistles, and squeals that early whalers could
+    hear ringing through wooden ship hulls.
+  species: beluga
+  category: communication
+  source: https://www.worldwildlife.org/species/beluga
+
+- id: beluga-flexible-neck
+  text: >
+    Unlike most whales, belugas have unfused neck vertebrae,
+    so they can turn their heads side to side and up and
+    down with a near-mammalian range of motion.
+  species: beluga
+  category: anatomy
+  source: https://www.fisheries.noaa.gov/species/beluga-whale
+
+- id: beluga-shapeshifting-melon
+  text: >
+    A beluga can visibly reshape its bulbous forehead, the
+    melon, by squeezing air through internal sinuses —
+    apparently as part of social signaling.
+  species: beluga
+  category: anatomy
+  source: https://www.fisheries.noaa.gov/species/beluga-whale
+
+- id: beluga-calves-gray
+  text: >
+    Beluga calves are born dark gray and gradually lighten
+    over their first decade of life, only turning the
+    species' iconic snow-white as fully mature adults.
+  species: beluga
+  category: reproduction
+  source: https://www.fisheries.noaa.gov/species/beluga-whale
+
+- id: beluga-annual-molt
+  text: >
+    Belugas are the only whales known to undergo an annual
+    molt, scraping off yellowed outer skin against gravel
+    in shallow estuaries each summer.
+  species: beluga
+  category: anatomy
+  source: https://www.fisheries.noaa.gov/species/beluga-whale
+
+- id: beluga-noc-talking
+  text: >
+    A captive beluga named NOC produced sounds so close to
+    human speech that staff at the U.S. Navy facility once
+    mistook the whale for a person muttering nearby.
+  species: beluga
+  category: communication
+  source: https://www.nationalgeographic.com/animals/mammals/facts/beluga-whale
+
+- id: beluga-arctic-resident
+  text: >
+    Belugas spend their entire lives in cold Arctic and
+    subarctic waters, with isolated populations gathering
+    in the same estuaries each summer for thousands of years.
+  species: beluga
+  category: habitat
+  source: https://www.fisheries.noaa.gov/species/beluga-whale
+
+# --- NARWHAL ---
+
+- id: narwhal-tusk-stuns-fish
+  text: >
+    High-resolution drone footage has caught narwhals tapping
+    Arctic cod with the tip of the tusk to stun them before
+    swallowing — a long-suspected behavior finally confirmed.
+  species: narwhal
+  category: behavior
+  source: https://www.fisheries.noaa.gov/species/narwhal
+
+- id: narwhal-female-tusks-rare
+  text: >
+    Most male narwhals grow a tusk, but only about three
+    percent of females ever do — making tusked females one
+    of the rarer sights in the Arctic.
+  species: narwhal
+  category: anatomy
+  source: https://ocean.si.edu/ocean-life/marine-mammals/narwhals
+
+- id: narwhal-double-tusks
+  text: >
+    Roughly one in 500 male narwhals grows a second tusk
+    when the right tooth, normally embedded, also breaks
+    through the lip and elongates.
+  species: narwhal
+  category: anatomy
+  source: https://ocean.si.edu/ocean-life/marine-mammals/narwhals
+
+- id: narwhal-deep-diver
+  text: >
+    Narwhals routinely dive to about 1,500 meters and have
+    been recorded near 1,800 meters, holding their breath
+    for as long as 25 minutes during winter foraging.
+  species: narwhal
+  category: behavior
+  source: https://www.fisheries.noaa.gov/species/narwhal
+
+- id: narwhal-unicorn-horn
+  text: >
+    Medieval Europeans paid up to ten times the weight of
+    gold for narwhal tusks, sold as the horns of unicorns
+    by Norse traders who carefully kept the source secret.
+  species: narwhal
+  category: history
+  source: https://www.smithsonianmag.com/science-nature/the-northern-roots-of-unicorn-myths-180962108/
+
+- id: narwhal-beluga-hybrid
+  text: >
+    DNA from a strange skull found in Greenland in 1990
+    revealed the first known narwhal–beluga hybrid, born to
+    a beluga father and a narwhal mother.
+  species: narwhal
+  category: trivia
+  source: https://en.wikipedia.org/wiki/Narluga
+
+# --- GRAY WHALE ---
+
+- id: gray-whale-bottom-feeder
+  text: >
+    Gray whales are the only living baleen whale to feed
+    by rolling on the seafloor, sucking up mouthfuls of
+    sediment and filtering out tiny shrimp-like amphipods.
+  species: gray
+  category: diet
+  source: https://www.fisheries.noaa.gov/species/gray-whale
+
+- id: gray-whale-mud-trails
+  text: >
+    A feeding gray whale leaves behind long furrows of
+    suspended sediment so visible from above that researchers
+    can spot foraging areas from light aircraft.
+  species: gray
+  category: behavior
+  source: https://www.fisheries.noaa.gov/species/gray-whale
+
+- id: gray-whale-friendly-baja
+  text: >
+    In the lagoons of Baja California, mother gray whales
+    sometimes nudge their calves up to tourist boats, an
+    unusual cross-species "friendly whale" tradition.
+  species: gray
+  category: behavior
+  source: https://www.fisheries.noaa.gov/species/gray-whale
+
+- id: gray-whale-atlantic-extinct
+  text: >
+    Gray whales once swam in the North Atlantic too, but
+    were hunted to extinction there by the early 1700s —
+    leaving only Pacific populations today.
+  species: gray
+  category: history
+  source: https://en.wikipedia.org/wiki/Gray_whale
+
+- id: gray-whale-barnacle-load
+  text: >
+    A single gray whale can carry up to 180 kilograms of
+    barnacles plus tens of thousands of whale lice, giving
+    its skin a famously crusty, mottled look.
+  species: gray
+  category: anatomy
+  source: https://www.fisheries.noaa.gov/species/gray-whale
+
+- id: gray-whale-recovery
+  text: >
+    The eastern Pacific gray whale population has rebounded
+    from a few thousand survivors of whaling to roughly
+    pre-exploitation numbers, the largest such recovery
+    among great whales.
+  species: gray
+  category: history
+  source: https://www.fisheries.noaa.gov/species/gray-whale
+
+- id: gray-whale-baja-nursery
+  text: >
+    Every winter, pregnant gray whales travel thousands of
+    kilometers to give birth in the warm, shallow lagoons
+    of Baja California, far from Arctic orca packs.
+  species: gray
+  category: reproduction
+  source: https://www.fisheries.noaa.gov/species/gray-whale
+
+# --- BOWHEAD ---
+
+- id: bowhead-200-year-lifespan
+  text: >
+    Eye-lens dating suggests bowhead whales can live more
+    than 200 years, making them the longest-lived mammals
+    known to science.
+  species: bowhead
+  category: anatomy
+  source: https://oceanservice.noaa.gov/facts/bowhead.html
+
+- id: bowhead-victorian-harpoons
+  text: >
+    Hunters in Alaska have pulled harpoon points made of
+    19th-century stone and iron from living bowheads,
+    confirming individual lifespans of 100-plus years.
+  species: bowhead
+  category: history
+  source: https://www.adfg.alaska.gov/static/education/wns/bowhead_whale.pdf
+
+- id: bowhead-thickest-blubber
+  text: >
+    Bowheads have the thickest blubber of any animal —
+    up to 50 centimeters (20 inches) — letting them
+    survive winter at the Arctic ice edge year-round.
+  species: bowhead
+  category: anatomy
+  source: https://resources.arctickingdom.com/10-fun-facts-about-bowhead-whales
+
+- id: bowhead-largest-mouth
+  text: >
+    The bowhead's mouth is the largest in the animal
+    kingdom, with the head making up roughly a third of
+    the whale's total body length.
+  species: bowhead
+  category: anatomy
+  source: https://www.fisheries.noaa.gov/species/bowhead-whale
+
+- id: bowhead-longest-baleen
+  text: >
+    Bowhead baleen plates can reach 4 meters (13 feet)
+    long — the longest of any whale — and are the
+    finest sieves nature has produced.
+  species: bowhead
+  category: anatomy
+  source: https://www.fisheries.noaa.gov/species/bowhead-whale
+
+- id: bowhead-breaks-ice
+  text: >
+    Bowheads use their massive, blubber-armored skulls to
+    punch through sea ice up to 18 centimeters thick when
+    they need to surface for air.
+  species: bowhead
+  category: anatomy
+  source: https://oceanservice.noaa.gov/facts/bowhead.html
+
+- id: bowhead-two-voiced-songs
+  text: >
+    Bowheads can sing in two voices simultaneously, producing
+    a high and a low frequency at once across one of the
+    widest vocal ranges of any mammal.
+  species: bowhead
+  category: communication
+  source: https://www.fisheries.noaa.gov/alaska/outreach-and-education/5-icebreakers-about-bowhead-whales
+
+# --- GENERAL / CROSS-SPECIES ---
+
+- id: whales-from-land
+  text: >
+    Whales evolved from four-legged land mammals roughly
+    50 million years ago, with early relatives like
+    Pakicetus living on Pakistani riverbanks.
+  category: history
+  source: https://ocean.si.edu/through-time/ancient-seas/evolution-whales
+
+- id: whales-hippo-cousins
+  text: >
+    Genetic and fossil evidence shows that the closest living
+    relatives of whales are hippopotamuses, both descended
+    from a common ancestor about 54 million years ago.
+  category: history
+  source: https://ocean.si.edu/through-time/ancient-seas/evolution-whales
+
+- id: whales-vestigial-pelvis
+  text: >
+    Whales still carry tiny pelvic bones inherited from
+    their land-dwelling ancestors — once thought useless,
+    these now appear to anchor reproductive muscles.
+  category: anatomy
+  source: https://ocean.si.edu/through-time/ancient-seas/evolution-whales
+
+- id: whales-baleen-vs-toothed
+  text: >
+    Living whales split into two suborders: baleen whales,
+    which filter-feed through keratin plates, and toothed
+    whales, which echolocate and grab prey one at a time.
+  category: anatomy
+  source: https://en.wikipedia.org/wiki/Whale
+
+- id: cetaceans-ear-bones
+  text: >
+    Whales hear with hyper-dense bullae — tiny isolated
+    ear bones that conduct underwater sound to the inner
+    ear with extreme precision found in no land mammal.
+  category: anatomy
+  source: https://ocean.si.edu/through-time/ancient-seas/evolution-whales
