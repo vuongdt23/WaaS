@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.planning/
+.superpowers/
+.DS_Store
+*.log
