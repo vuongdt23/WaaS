@@ -46,11 +46,13 @@ All endpoints are `application/json`, GET-only.
 
 ## Adding a fact
 
-1. Add an entry to `data/facts.yaml` with a unique kebab-case `id`, the text, a `category`, an optional `species` slug, and a `source` URL.
+Facts live in `data/facts/<species>.yaml` (one file per species) plus `data/facts/common.yaml` for cross-species facts. The species comes from the filename — entries don't need a `species:` field.
+
+1. Append to the relevant file (e.g. `data/facts/orca.yaml`) with a unique kebab-case `id`, the text, a `category`, and a `source` URL. For facts not tied to one species, use `data/facts/common.yaml`.
 2. Run `npm run build` locally — the build will fail loudly if anything is off.
 3. Open a PR. Once merged, the GitHub Action redeploys.
 
-To add a new species, add an entry to `data/species.yaml` with a unique `slug`, `common_name`, and `scientific_name`.
+To add a new species, add an entry to `data/species.yaml` (`slug`, `common_name`, `scientific_name`) and create `data/facts/<slug>.yaml`.
 
 ## Local development
 

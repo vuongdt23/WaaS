@@ -1,0 +1,50 @@
+- id: humpback-bubble-net
+  text: >
+    Humpback whales hunt cooperatively by blowing rings of bubbles around schools of fish, herding
+    them into a tight ball before lunging through the center with mouths wide open.
+  category: behavior
+  source: https://oceanservice.noaa.gov/facts/humpback.html
+- id: humpback-song-revolution
+  text: >
+    Every few years, all the male humpbacks in an ocean basin abandon their old song and adopt a
+    brand-new one learned from a neighboring population — a true cultural revolution.
+  category: communication
+  source: >-
+    https://www.discovermagazine.com/humpback-whales-go-through-a-cultural-revolution-every-few-years-417
+- id: humpback-longest-migration
+  text: >
+    Humpbacks make the longest migration of any mammal, swimming up to 8,000 kilometers each way
+    between polar feeding grounds and tropical breeding areas.
+  category: behavior
+  source: https://www.guinnessworldrecords.com/world-records/longest-mammal-migration
+- id: humpback-megaptera-name
+  text: >
+    The genus name Megaptera means "big wing," referring to the humpback's pectoral fins — at up to
+    one-third of body length, the longest appendages of any whale.
+  category: anatomy
+  source: https://www.fisheries.noaa.gov/species/humpback-whale
+- id: humpback-breach-purpose
+  text: >
+    Humpbacks may breach to communicate over long distances: the boom of a 30-ton body slamming the
+    surface can be heard underwater for kilometers.
+  category: behavior
+  source: https://www.fisheries.noaa.gov/species/humpback-whale
+- id: humpback-population-recovery
+  text: >
+    After near-extinction from whaling, many humpback populations are now growing 10 percent or more
+    per year, one of the great conservation success stories at sea.
+  category: history
+  source: https://www.fisheries.noaa.gov/species/humpback-whale
+- id: humpback-individual-flukes
+  text: >
+    Each humpback has a unique pattern on the underside of its tail flukes, allowing researchers to
+    identify individuals across decades of photographs.
+  category: anatomy
+  source: https://www.fisheries.noaa.gov/species/humpback-whale
+- id: humpback-protect-other-species
+  text: >
+    Humpback whales have been observed in dozens of cases actively defending seals, dolphins, and
+    other species from attacking orcas, even when not threatened themselves.
+  category: behavior
+  source: >-
+    https://www.nationalgeographic.com/animals/article/humpback-whales-save-animals-killer-whales-explained

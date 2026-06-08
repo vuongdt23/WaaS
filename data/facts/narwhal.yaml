@@ -1,0 +1,42 @@
+- id: narwhal-tusk-is-a-tooth
+  text: >
+    A narwhal's tusk is actually a single elongated tooth that grows through its upper lip, packed
+    with millions of nerve endings that let the animal sense changes in seawater.
+  category: anatomy
+  source: https://ocean.si.edu/ocean-life/marine-mammals/narwhals
+- id: narwhal-tusk-stuns-fish
+  text: >
+    High-resolution drone footage has caught narwhals tapping Arctic cod with the tip of the tusk to
+    stun them before swallowing — a long-suspected behavior finally confirmed.
+  category: behavior
+  source: https://www.fisheries.noaa.gov/species/narwhal
+- id: narwhal-female-tusks-rare
+  text: >
+    Most male narwhals grow a tusk, but only about three percent of females ever do — making tusked
+    females one of the rarer sights in the Arctic.
+  category: anatomy
+  source: https://ocean.si.edu/ocean-life/marine-mammals/narwhals
+- id: narwhal-double-tusks
+  text: >
+    Roughly one in 500 male narwhals grows a second tusk when the right tooth, normally embedded,
+    also breaks through the lip and elongates.
+  category: anatomy
+  source: https://ocean.si.edu/ocean-life/marine-mammals/narwhals
+- id: narwhal-deep-diver
+  text: >
+    Narwhals routinely dive to about 1,500 meters and have been recorded near 1,800 meters, holding
+    their breath for as long as 25 minutes during winter foraging.
+  category: behavior
+  source: https://www.fisheries.noaa.gov/species/narwhal
+- id: narwhal-unicorn-horn
+  text: >
+    Medieval Europeans paid up to ten times the weight of gold for narwhal tusks, sold as the horns
+    of unicorns by Norse traders who carefully kept the source secret.
+  category: history
+  source: https://www.smithsonianmag.com/science-nature/the-northern-roots-of-unicorn-myths-180962108/
+- id: narwhal-beluga-hybrid
+  text: >
+    DNA from a strange skull found in Greenland in 1990 revealed the first known narwhal–beluga
+    hybrid, born to a beluga father and a narwhal mother.
+  category: trivia
+  source: https://en.wikipedia.org/wiki/Narluga

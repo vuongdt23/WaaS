@@ -1,0 +1,42 @@
+- id: beluga-canary-of-the-sea
+  text: >
+    Belugas are nicknamed "canaries of the sea" for the chirps, whistles, and squeals that early
+    whalers could hear ringing through wooden ship hulls.
+  category: communication
+  source: https://www.worldwildlife.org/species/beluga
+- id: beluga-flexible-neck
+  text: >
+    Unlike most whales, belugas have unfused neck vertebrae, so they can turn their heads side to
+    side and up and down with a near-mammalian range of motion.
+  category: anatomy
+  source: https://www.fisheries.noaa.gov/species/beluga-whale
+- id: beluga-shapeshifting-melon
+  text: >
+    A beluga can visibly reshape its bulbous forehead, the melon, by squeezing air through internal
+    sinuses — apparently as part of social signaling.
+  category: anatomy
+  source: https://www.fisheries.noaa.gov/species/beluga-whale
+- id: beluga-calves-gray
+  text: >
+    Beluga calves are born dark gray and gradually lighten over their first decade of life, only
+    turning the species' iconic snow-white as fully mature adults.
+  category: reproduction
+  source: https://www.fisheries.noaa.gov/species/beluga-whale
+- id: beluga-annual-molt
+  text: >
+    Belugas are the only whales known to undergo an annual molt, scraping off yellowed outer skin
+    against gravel in shallow estuaries each summer.
+  category: anatomy
+  source: https://www.fisheries.noaa.gov/species/beluga-whale
+- id: beluga-noc-talking
+  text: >
+    A captive beluga named NOC produced sounds so close to human speech that staff at the U.S. Navy
+    facility once mistook the whale for a person muttering nearby.
+  category: communication
+  source: https://www.nationalgeographic.com/animals/mammals/facts/beluga-whale
+- id: beluga-arctic-resident
+  text: >
+    Belugas spend their entire lives in cold Arctic and subarctic waters, with isolated populations
+    gathering in the same estuaries each summer for thousands of years.
+  category: habitat
+  source: https://www.fisheries.noaa.gov/species/beluga-whale

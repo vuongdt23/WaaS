@@ -1,0 +1,48 @@
+- id: blue-whale-loudest
+  text: >
+    Blue whales are among the loudest animals on Earth — their calls can reach 188 decibels and
+    travel hundreds of miles underwater.
+  category: communication
+  source: https://www.fisheries.noaa.gov/species/blue-whale
+- id: blue-whale-largest-ever
+  text: >
+    Blue whales reach over 30 meters long and 190 tons — making them the largest animal known to
+    have ever existed, bigger than any dinosaur in the fossil record.
+  category: anatomy
+  source: https://www.britannica.com/animal/blue-whale
+- id: blue-whale-heart
+  text: >
+    A blue whale's heart weighs about 180 kilograms — roughly the size of a small car — and pumps
+    around 10 tons of blood through its body.
+  category: anatomy
+  source: https://www.ifaw.org/animals/blue-whales
+- id: blue-whale-krill-tons
+  text: >
+    A feeding blue whale can eat about 4 tons of krill in a single day, swallowing tens of millions
+    of the tiny crustaceans during the polar summer.
+  category: diet
+  source: https://www.worldwildlife.org/species/blue-whale
+- id: blue-whale-calf-growth
+  text: >
+    Blue whale calves are born around 7 meters long and gain roughly 90 kilograms (200 pounds) every
+    day on their mother's fat-rich milk.
+  category: reproduction
+  source: https://www.marinemammalcenter.org/animal-care/learn-about-marine-mammals/cetaceans/blue-whale
+- id: blue-whale-population
+  text: >
+    Industrial whaling reduced blue whales to a few percent of their original numbers; today an
+    estimated 10,000 to 25,000 remain — still classified as endangered by the IUCN.
+  category: history
+  source: https://en.wikipedia.org/wiki/Blue_whale
+- id: blue-whale-lifespan
+  text: >
+    Blue whales are believed to live 80 to 90 years in the wild, though earplug-layer counts of
+    older animals suggest some may exceed 100.
+  category: anatomy
+  source: https://animaldiversity.org/accounts/Balaenoptera_musculus/
+- id: blue-whale-tongue-elephant
+  text: >
+    A blue whale's tongue alone can weigh as much as an adult elephant — about 2.7 tons — and helps
+    push seawater out through the baleen during feeding.
+  category: anatomy
+  source: https://www.nationalgeographic.com/animals/mammals/facts/blue-whale

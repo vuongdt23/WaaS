@@ -1,0 +1,30 @@
+- id: whales-from-land
+  text: >
+    Whales evolved from four-legged land mammals roughly 50 million years ago, with early relatives
+    like Pakicetus living on Pakistani riverbanks.
+  category: history
+  source: https://ocean.si.edu/through-time/ancient-seas/evolution-whales
+- id: whales-hippo-cousins
+  text: >
+    Genetic and fossil evidence shows that the closest living relatives of whales are
+    hippopotamuses, both descended from a common ancestor about 54 million years ago.
+  category: history
+  source: https://ocean.si.edu/through-time/ancient-seas/evolution-whales
+- id: whales-vestigial-pelvis
+  text: >
+    Whales still carry tiny pelvic bones inherited from their land-dwelling ancestors — once thought
+    useless, these now appear to anchor reproductive muscles.
+  category: anatomy
+  source: https://ocean.si.edu/through-time/ancient-seas/evolution-whales
+- id: whales-baleen-vs-toothed
+  text: >
+    Living whales split into two suborders: baleen whales, which filter-feed through keratin plates,
+    and toothed whales, which echolocate and grab prey one at a time.
+  category: anatomy
+  source: https://en.wikipedia.org/wiki/Whale
+- id: cetaceans-ear-bones
+  text: >
+    Whales hear with hyper-dense bullae — tiny isolated ear bones that conduct underwater sound to
+    the inner ear with extreme precision found in no land mammal.
+  category: anatomy
+  source: https://ocean.si.edu/through-time/ancient-seas/evolution-whales

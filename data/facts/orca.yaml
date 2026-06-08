@@ -1,0 +1,333 @@
+- id: orca-cultural-dialects
+  text: >
+    Different orca pods have distinct vocal dialects passed down across generations, and these
+    dialects are stable enough that researchers can identify a pod from a single recording.
+  category: communication
+  source: https://www.fisheries.noaa.gov/species/killer-whale
+- id: orca-resident-vs-transient
+  text: >
+    In the North Pacific, fish-eating Resident orcas and mammal-eating Bigg's (Transient) orcas
+    share the same waters but do not interbreed, forming genetically and behaviorally distinct
+    populations.
+  category: behavior
+  source: https://www.fisheries.noaa.gov/species/killer-whale
+- id: orca-offshore-shark-eaters
+  text: >
+    Offshore orcas of the northeastern Pacific specialize in hunting sharks, including Pacific
+    sleeper sharks, and their teeth are often worn flat from gnawing through abrasive shark skin.
+  category: diet
+  source: https://en.wikipedia.org/wiki/Killer_whale
+- id: orca-southern-residents-endangered
+  text: >
+    The Southern Resident orcas of the Salish Sea are one of the most closely tracked whale
+    populations on Earth, with fewer than 80 individuals remaining despite decades of protection.
+  category: habitat
+  source: https://www.fisheries.noaa.gov/species/killer-whale
+- id: orca-type-d-subantarctic
+  text: >
+    Type D orcas, found in remote subantarctic waters, have such tiny eyepatches and bulbous heads
+    that they look like a different species — and they show some of the lowest genetic diversity of
+    any mammal.
+  category: anatomy
+  source: >-
+    https://www.fisheries.noaa.gov/feature-story/long-isolated-killer-whales-maintain-small-population-spanning-oceans
+- id: orca-ten-ecotypes
+  text: >
+    Scientists now recognize at least eight to ten distinct orca ecotypes worldwide, and some
+    researchers argue several deserve recognition as separate species rather than one global Orcinus
+    orca.
+  category: trivia
+  source: https://iwc.int/about-whales/whale-species/killer-whale
+- id: orca-patagonia-beaching
+  text: >
+    A few orcas at Argentina's Península Valdés deliberately strand themselves on the beach to
+    snatch sea lion pups from the surf — a risky technique mothers spend years teaching their
+    calves.
+  category: behavior
+  source: https://www.nationalgeographic.com/animals/article/animals-up-close-wave-washing-killer-whales
+- id: orca-wave-washing-seals
+  text: >
+    Antarctic pack-ice orcas hunt in synchronized lines, swimming shoulder-to-shoulder to generate
+    waves that wash Weddell seals off ice floes and into waiting jaws.
+  category: behavior
+  source: https://www.nationalgeographic.com/animals/article/animals-up-close-wave-washing-killer-whales
+- id: orca-great-white-livers
+  text: >
+    Off South Africa and Mexico, orcas have been filmed killing great white sharks and surgically
+    removing only their massive, oil-rich livers — sometimes leaving the rest of the carcass
+    untouched.
+  category: diet
+  source: https://www.nationalgeographic.com/animals/article/orcas-spotted-hunting-great-white-sharks
+- id: orca-kills-blue-whale
+  text: >
+    In 2019, scientists off Western Australia documented for the first time orcas coordinating to
+    kill an adult blue whale, confirming they can hunt the largest animal that has ever lived.
+  category: behavior
+  source: >-
+    https://www.nationalgeographic.com/animals/article/orcas-can-kill-blue-whales-the-biggest-animal-on-earth
+- id: orca-eats-tongue
+  text: >
+    When attacking large baleen whales, orcas often target only the fatty tongue, biting it free and
+    abandoning thousands of kilograms of meat behind.
+  category: diet
+  source: https://www.fisheries.noaa.gov/species/killer-whale
+- id: orca-iberian-boat-attacks
+  text: >
+    Since 2020, a small group of orcas off the Iberian Peninsula has rammed and disabled hundreds of
+    sailboats, snapping rudders without ever injuring a single human in the process.
+  category: behavior
+  source: https://en.wikipedia.org/wiki/Iberian_orca_attacks
+- id: orca-hunts-sea-otters
+  text: >
+    In parts of the North Pacific, transient orcas began preying on sea otters in the 1990s — a
+    shift dramatic enough to trigger cascading collapse in nearby kelp forest ecosystems.
+  category: diet
+  source: https://en.wikipedia.org/wiki/Sea_otter
+- id: orca-eats-moose
+  text: >
+    Stomach-content studies have turned up the remains of swimming moose and deer in orca bellies —
+    terrestrial mammals snatched while attempting to cross open channels in southeast Alaska.
+  category: diet
+  source: https://www.marinebio.org/species/orcas-killer-whales/orcinus-orca/
+- id: orca-herring-bait-balls
+  text: >
+    North Atlantic orcas herd herring into tight bait balls using coordinated calls, then stun whole
+    schools with sweeping tail slaps before picking off stunned fish one by one.
+  category: behavior
+  source: https://en.wikipedia.org/wiki/Orca
+- id: orca-tallest-dorsal-fin
+  text: >
+    Adult male orcas grow the tallest dorsal fin of any marine mammal — up to about 1.8 meters (6
+    feet) — making mature males instantly recognizable from the surface.
+  category: anatomy
+  source: https://oceantoday.noaa.gov/killerwhaleanatomy/
+- id: orca-dorsal-collapse-captivity
+  text: >
+    Almost every adult male orca in captivity has a fully collapsed dorsal fin, a condition
+    vanishingly rare in the wild and linked to long hours at the surface, gravity, and cramped
+    tanks.
+  category: anatomy
+  source: https://en.wikipedia.org/wiki/Captive_orcas
+- id: orca-eyes-not-eyespots
+  text: >
+    The famous white "eyespots" behind an orca's face are not its eyes at all — the actual eyes sit
+    small and dark just below and forward of those patches.
+  category: anatomy
+  source: https://oceantoday.noaa.gov/killerwhaleanatomy/
+- id: orca-interlocking-teeth
+  text: >
+    Orcas have 40 to 56 conical teeth that interlock when the jaws close, each up to 7.5 cm long,
+    but they swallow most prey in chunks rather than chewing.
+  category: anatomy
+  source: https://oceantoday.noaa.gov/killerwhaleanatomy/
+- id: orca-female-outlives-male
+  text: >
+    Female orcas often live 80 years or more, while males rarely pass 50 — one of the largest
+    lifespan gaps between sexes in any mammal.
+  category: anatomy
+  source: https://en.wikipedia.org/wiki/Orca
+- id: orca-half-brain-sleep
+  text: >
+    Orcas sleep with one half of the brain at a time, an adaptation called unihemispheric slow-wave
+    sleep that lets them keep breathing and watching for danger while resting.
+  category: anatomy
+  source: https://en.wikipedia.org/wiki/Orca
+- id: orca-second-largest-brain
+  text: >
+    The orca brain weighs about 6 kilograms — second only to the sperm whale's among living animals
+    — and is among the most convolved brains ever studied.
+  category: anatomy
+  source: https://en.wikipedia.org/wiki/Orca
+- id: orca-sons-stay-with-mom
+  text: >
+    Resident orca sons remain with their mothers for life, a level of family loyalty unmatched in
+    any other known mammal species.
+  category: behavior
+  source: https://en.wikipedia.org/wiki/Orca
+- id: orca-matriline-six-generations
+  text: >
+    A single orca matriline can span up to six living generations, led by an aging matriarch who
+    passes on hunting routes and vocal traditions to her descendants.
+  category: behavior
+  source: https://en.wikipedia.org/wiki/Orca
+- id: orca-menopause
+  text: >
+    Orcas are one of only a handful of species — including humans and a few other toothed whales —
+    in which females undergo menopause and live for decades after their last calf.
+  category: reproduction
+  source: >-
+    https://www.science.org/content/article/study-suggests-surprising-reason-killer-whales-go-through-menopause
+- id: orca-grandmother-effect
+  text: >
+    Post-reproductive orca grandmothers significantly improve their grandcalves' survival,
+    especially in lean salmon years — direct evidence for the "grandmother hypothesis" in cetaceans.
+  category: reproduction
+  source: >-
+    https://www.smithsonianmag.com/science-nature/after-menopause-killer-whale-moms-become-pod-leaders-180954480/
+- id: orca-mom-helps-son
+  text: >
+    Studies of Pacific Northwest orcas show that adult sons whose mothers die are far more likely to
+    die themselves within the next few years, even when the sons are fully grown.
+  category: behavior
+  source: https://www.york.ac.uk/news-and-events/features/killer-whales/
+- id: orca-alloparenting
+  text: >
+    In many orca pods, aunts, uncles, and older siblings of both sexes help guard and play with
+    calves — a form of cooperative childcare known as alloparenting.
+  category: behavior
+  source: https://en.wikipedia.org/wiki/Orca
+- id: orca-three-sound-types
+  text: >
+    Orcas produce three distinct kinds of vocalizations — clicks for echolocation, whistles for
+    close-range chatter, and pulsed calls that carry pod identity over long distances.
+  category: communication
+  source: https://en.wikipedia.org/wiki/Orca
+- id: orca-salmon-hat-fad
+  text: >
+    In the summer of 1987, a female orca off Puget Sound began wearing a dead salmon balanced on her
+    head; within weeks the fad had spread to two other pods, then mysteriously vanished.
+  category: behavior
+  source: >-
+    https://www.smithsonianmag.com/smart-news/no-orcas-probably-arent-reviving-the-dead-salmon-hat-trend-despite-a-viral-photo-experts-say-heres-why-180985559/
+- id: orca-salmon-hat-returns
+  text: >
+    In late 2024, after almost four decades, Pacific Northwest orcas were photographed sporting
+    salmon "hats" again, reviving a cultural fad researchers still cannot explain.
+  category: trivia
+  source: >-
+    https://www.livescience.com/animals/orcas/orcas-start-wearing-dead-salmon-hats-again-after-ditching-the-trend-for-37-years
+- id: orca-mimics-human-speech
+  text: >
+    A captive orca named Wikie learned to imitate human words like "hello," "bye-bye," and her
+    trainer's name, demonstrating vocal mimicry rare among non-human mammals.
+  category: communication
+  source: https://phys.org/news/2018-01-whale-words-orca-mimics-human.html
+- id: orca-clan-dialects-stable
+  text: >
+    Resident orca clans share core call types that have stayed recognizable for at least four
+    decades of recordings — a cultural lineage on a timescale comparable to human languages.
+  category: communication
+  source: https://en.wikipedia.org/wiki/Orca
+- id: orca-every-ocean
+  text: >
+    Orcas are the most widely distributed mammal on Earth after humans, found in every ocean from
+    the Arctic ice edge to the equator and even occasionally in tropical river mouths.
+  category: habitat
+  source: https://en.wikipedia.org/wiki/Orca
+- id: orca-sprint-speed
+  text: >
+    Orcas typically cruise at 3–4 mph but can sprint at over 30 mph in short bursts, making them the
+    fastest of all cetaceans when chasing prey.
+  category: anatomy
+  source: >-
+    https://whalemuseum.org/pages/frequently-asked-questions-about-the-southern-resident-endangered-orcas
+- id: orca-100-mile-day
+  text: >
+    Orca pods routinely cover up to 160 kilometers (100 miles) in a single day while foraging, far
+    more than most other large whales.
+  category: habitat
+  source: https://en.wikipedia.org/wiki/Orca
+- id: orca-river-incursions
+  text: >
+    Orcas have been recorded swimming many kilometers up the Columbia, Fraser, and other major
+    rivers, occasionally chasing salmon well into freshwater.
+  category: habitat
+  source: https://en.wikipedia.org/wiki/Orca
+- id: orca-moby-doll-1964
+  text: >
+    The modern era of orca captivity began in 1964 when a young male harpooned off Vancouver, later
+    named Moby Doll, became the first orca ever displayed alive to the public.
+  category: history
+  source: https://en.wikipedia.org/wiki/Captive_orcas
+- id: orca-keiko-free-willy
+  text: >
+    Keiko, the orca who starred in Free Willy, was eventually flown from Mexico City to an Icelandic
+    sea pen in 1998 and became the first captive orca ever returned to the open ocean.
+  category: history
+  source: https://en.wikipedia.org/wiki/Keiko_(orca)
+- id: orca-tilikum
+  text: >
+    Tilikum, captured off Iceland in 1983, was implicated in the deaths of three people in captivity
+    and became the central figure of the 2013 documentary Blackfish.
+  category: history
+  source: https://en.wikipedia.org/wiki/Tilikum_(killer_whale)
+- id: orca-lolita-tokitae
+  text: >
+    Lolita, also called Tokitae, was taken from Washington's Southern Residents in 1970 and spent
+    more than 50 years in the same Miami tank before her death in 2023.
+  category: history
+  source: https://en.wikipedia.org/wiki/Lolita_(orca)
+- id: orca-asesina-ballenas
+  text: >
+    The English name "killer whale" is a translation flip of the Spanish whalers' "asesina ballenas"
+    — literally "whale killer" — for what they saw orcas do to large whales.
+  category: history
+  source: https://en.wikipedia.org/wiki/Orca
+- id: orca-orcinus-underworld
+  text: >
+    The scientific name Orcinus orca traces back to the Latin Orcus, a Roman god of the underworld,
+    reflecting the classical view of orcas as fearsome creatures.
+  category: history
+  source: https://en.wikipedia.org/wiki/Orca
+- id: orca-old-tom-eden
+  text: >
+    For nearly a century, orcas led by a male called Old Tom cooperated with whalers in Eden,
+    Australia, herding baleen whales toward boats in exchange for the lips and tongues.
+  category: history
+  source: https://www.nma.gov.au/defining-moments/resources/old-tom-the-killer-whale-in-eden
+- id: orca-granny-j2
+  text: >
+    Granny, the matriarch of the J pod, was estimated to be well over 80 years old when she vanished
+    in 2016, making her one of the oldest known wild orcas.
+  category: history
+  source: https://en.wikipedia.org/wiki/Granny_(killer_whale)
+- id: orca-17-month-pregnancy
+  text: >
+    Orca pregnancies last about 17 months — among the longest of any cetacean — and females usually
+    give birth to a single calf only every 3 to 8 years.
+  category: reproduction
+  source: https://en.wikipedia.org/wiki/Orca
+- id: orca-calf-mortality
+  text: >
+    Demographic studies estimate that 37 to 50 percent of orca calves die in their first six to
+    seven months, explaining the species' slow population growth even in healthy waters.
+  category: reproduction
+  source: https://en.wikipedia.org/wiki/Orca
+- id: orca-cross-pod-mating
+  text: >
+    Orcas avoid inbreeding by mating only with members of other matrilines or pods, often during
+    brief inter-pod "greeting ceremonies" that mix the lineages.
+  category: reproduction
+  source: https://en.wikipedia.org/wiki/Orca
+- id: orca-no-wild-human-deaths
+  text: >
+    There has never been a confirmed fatal attack by a wild orca on a human, despite the species'
+    fearsome reputation and global overlap with people in boats and the surf.
+  category: trivia
+  source: https://en.wikipedia.org/wiki/Orca_attacks_on_humans
+- id: orca-gifts-to-humans
+  text: >
+    A 2025 study catalogued 34 cases worldwide where wild orcas brought prey — fish, rays, even
+    seaweed — to nearby humans and waited, as if offering gifts.
+  category: behavior
+  source: >-
+    https://www.smithsonianmag.com/smart-news/orcas-appear-to-be-sharing-their-prey-with-humans-but-what-does-it-mean-180986913/
+- id: orca-pcb-contamination
+  text: >
+    Despite a global ban in 2001, banned PCBs accumulated in blubber are projected to wipe out half
+    of the world's orca populations within a few decades.
+  category: trivia
+  source: >-
+    https://www.nationalgeographic.com/environment/article/orcas-killer-whales-poisoned-pcbs-pollution
+- id: orca-noise-pollution
+  text: >
+    Underwater noise from passing ships measurably masks Southern Resident orca calls and reduces
+    foraging efficiency, helping drive the population's slow decline despite ample habitat.
+  category: trivia
+  source: https://orca.wa.gov/recommendation-category/vessels-disturb-orcas/
+- id: orca-not-a-whale
+  text: >
+    Despite the name, orcas are technically the largest member of the dolphin family Delphinidae —
+    making the killer whale really a killer dolphin.
+  category: trivia
+  source: https://en.wikipedia.org/wiki/Orca

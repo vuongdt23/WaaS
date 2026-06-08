@@ -1,0 +1,48 @@
+- id: sperm-whale-deepest-dive
+  text: >
+    Sperm whales routinely dive deeper than 2,000 meters in search of giant squid, holding their
+    breath for over an hour at a time.
+  category: behavior
+  source: https://www.fisheries.noaa.gov/species/sperm-whale
+- id: sperm-whale-biggest-brain
+  text: >
+    Sperm whales have the largest brain of any animal on Earth — about 7.8 kilograms in adult males,
+    roughly five times heavier than a human brain.
+  category: anatomy
+  source: https://www.fisheries.noaa.gov/species/sperm-whale
+- id: sperm-whale-spermaceti
+  text: >
+    Inside a sperm whale's blocky head sits the spermaceti organ, a chamber holding up to 1,900
+    liters of waxy oil that focuses its booming echolocation clicks.
+  category: anatomy
+  source: https://en.wikipedia.org/wiki/Sperm_whale
+- id: sperm-whale-codas
+  text: >
+    Sperm whales communicate in patterned click sequences called codas, and entire ocean-wide
+    "clans" share a distinctive coda dialect that calves learn from kin.
+  category: communication
+  source: https://www.fisheries.noaa.gov/species/sperm-whale
+- id: sperm-whale-loudest-clicks
+  text: >
+    A sperm whale's echolocation clicks can hit roughly 230 decibels underwater — among the loudest
+    sounds any animal is known to make.
+  category: communication
+  source: https://en.wikipedia.org/wiki/Sperm_whale
+- id: sperm-whale-vertical-sleep
+  text: >
+    Sperm whales nap by drifting vertically in the water column, head up or down, in tight clusters
+    that hold perfectly still for 10 to 15 minutes at a time.
+  category: behavior
+  source: https://en.wikipedia.org/wiki/Sperm_whale
+- id: sperm-whale-ambergris
+  text: >
+    Ambergris, a waxy substance occasionally produced in a sperm whale's gut and expelled at sea,
+    was historically so prized for perfumery that it was called "floating gold."
+  category: trivia
+  source: https://en.wikipedia.org/wiki/Ambergris
+- id: sperm-whale-matrilineal
+  text: >
+    Female sperm whales spend their lives in tight matrilineal groups, while adult males roam alone
+    for years and only return to warm waters to breed.
+  category: behavior
+  source: https://www.fisheries.noaa.gov/species/sperm-whale

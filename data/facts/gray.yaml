@@ -1,0 +1,42 @@
+- id: gray-whale-bottom-feeder
+  text: >
+    Gray whales are the only living baleen whale to feed by rolling on the seafloor, sucking up
+    mouthfuls of sediment and filtering out tiny shrimp-like amphipods.
+  category: diet
+  source: https://www.fisheries.noaa.gov/species/gray-whale
+- id: gray-whale-mud-trails
+  text: >
+    A feeding gray whale leaves behind long furrows of suspended sediment so visible from above that
+    researchers can spot foraging areas from light aircraft.
+  category: behavior
+  source: https://www.fisheries.noaa.gov/species/gray-whale
+- id: gray-whale-friendly-baja
+  text: >
+    In the lagoons of Baja California, mother gray whales sometimes nudge their calves up to tourist
+    boats, an unusual cross-species "friendly whale" tradition.
+  category: behavior
+  source: https://www.fisheries.noaa.gov/species/gray-whale
+- id: gray-whale-atlantic-extinct
+  text: >
+    Gray whales once swam in the North Atlantic too, but were hunted to extinction there by the
+    early 1700s — leaving only Pacific populations today.
+  category: history
+  source: https://en.wikipedia.org/wiki/Gray_whale
+- id: gray-whale-barnacle-load
+  text: >
+    A single gray whale can carry up to 180 kilograms of barnacles plus tens of thousands of whale
+    lice, giving its skin a famously crusty, mottled look.
+  category: anatomy
+  source: https://www.fisheries.noaa.gov/species/gray-whale
+- id: gray-whale-recovery
+  text: >
+    The eastern Pacific gray whale population has rebounded from a few thousand survivors of whaling
+    to roughly pre-exploitation numbers, the largest such recovery among great whales.
+  category: history
+  source: https://www.fisheries.noaa.gov/species/gray-whale
+- id: gray-whale-baja-nursery
+  text: >
+    Every winter, pregnant gray whales travel thousands of kilometers to give birth in the warm,
+    shallow lagoons of Baja California, far from Arctic orca packs.
+  category: reproduction
+  source: https://www.fisheries.noaa.gov/species/gray-whale

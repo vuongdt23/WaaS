@@ -32,6 +32,30 @@ function readYaml(file) {
   return yaml.load(fs.readFileSync(path.join(DATA, file), "utf8"));
 }
 
+function loadFacts(speciesSlugs) {
+  const dir = path.join(DATA, "facts");
+  const files = fs.readdirSync(dir).filter((f) => f.endsWith(".yaml")).sort();
+  const all = [];
+  for (const file of files) {
+    const base = file.replace(/\.yaml$/, "");
+    const list = yaml.load(fs.readFileSync(path.join(dir, file), "utf8")) ?? [];
+    if (base === "common") {
+      all.push(...list);
+      continue;
+    }
+    if (!speciesSlugs.has(base)) {
+      throw new Error(`facts/${file}: filename "${base}" is not a known species slug or "common"`);
+    }
+    for (const fact of list) {
+      if (fact.species && fact.species !== base) {
+        throw new Error(`facts/${file}: fact "${fact.id}" has species "${fact.species}" but file is for "${base}"`);
+      }
+      all.push({ ...fact, species: base });
+    }
+  }
+  return all;
+}
+
 function validateAll(species, facts) {
   const errors = [];
   const speciesSlugs = new Set();
@@ -80,7 +104,8 @@ function dayKey(month, day) {
 
 function main() {
   const species = readYaml("species.yaml");
-  const facts = readYaml("facts.yaml");
+  const speciesSlugs = new Set(species.map((s) => s.slug));
+  const facts = loadFacts(speciesSlugs);
 
   const errors = validateAll(species, facts);
   if (errors.length) {
