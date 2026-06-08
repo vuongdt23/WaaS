@@ -40,3 +40,87 @@
     hybrid, born to a beluga father and a narwhal mother.
   category: trivia
   source: https://en.wikipedia.org/wiki/Narluga
+- id: narwhal-lifespan
+  text: >
+    Narwhals are long-lived toothed whales, with adults thought to live at least 25 years and
+    possibly up to about 50 years in the wild Arctic.
+  category: anatomy
+  source: https://www.fisheries.noaa.gov/species/narwhal
+- id: narwhal-body-weight
+  text: >
+    Adult narwhals are robust-bodied cetaceans that weigh roughly 800 to 1,600 kilograms,
+    putting them in a similar size class to their close cousin the beluga.
+  category: anatomy
+  source: https://en.wikipedia.org/wiki/Narwhal
+- id: narwhal-no-dorsal-fin
+  text: >
+    Narwhals have no true dorsal fin, sporting only a low ridge along the back — an adaptation
+    thought to help them slip beneath thick Arctic sea ice without snagging.
+  category: anatomy
+  source: https://en.wikipedia.org/wiki/Narwhal
+- id: narwhal-blubber-insulation
+  text: >
+    A thick layer of blubber under the skin keeps narwhals insulated in waters that hover near
+    freezing year-round, accounting for roughly a third of their body mass.
+  category: anatomy
+  source: https://en.wikipedia.org/wiki/Narwhal
+- id: narwhal-color-with-age
+  text: >
+    Narwhal coloration shifts with age: calves are uniformly brownish-gray, juveniles darken
+    and become spotted, and old adults can appear nearly white with mottled patches.
+  category: anatomy
+  source: https://www.fisheries.noaa.gov/species/narwhal
+- id: narwhal-pod-aggregations
+  text: >
+    Narwhals usually travel in pods of about 10 to 20 animals, but during migration they can
+    gather into loose aggregations numbering in the hundreds or even thousands.
+  category: behavior
+  source: https://en.wikipedia.org/wiki/Narwhal
+- id: narwhal-seasonal-migration
+  text: >
+    Narwhals are seasonal migrants tied tightly to sea ice — wintering in deep, ice-covered
+    offshore waters and moving each summer into coastal fjords of Greenland, Canada, and Russia.
+  category: habitat
+  source: https://www.fisheries.noaa.gov/species/narwhal
+- id: narwhal-winter-diet
+  text: >
+    During the dark Arctic winter, narwhals feed heavily on Greenland halibut, polar and Arctic
+    cod, squid, and shrimp, hunting beneath dense pack ice.
+  category: diet
+  source: https://www.fisheries.noaa.gov/species/narwhal
+- id: narwhal-calving
+  text: >
+    After a gestation of roughly 13 to 16 months, a female narwhal gives birth to a single calf
+    in mid-summer, about 1.6 meters long and 80 kilograms at birth.
+  category: reproduction
+  source: https://www.fisheries.noaa.gov/species/narwhal
+- id: narwhal-predators
+  text: >
+    Beyond human hunters, narwhals are mainly preyed upon by killer whales and polar bears,
+    which can pick them off when ice traps concentrate animals at breathing holes.
+  category: behavior
+  source: https://en.wikipedia.org/wiki/Narwhal
+- id: narwhal-population
+  text: >
+    The IUCN currently lists narwhals as Least Concern, with a global population estimated
+    around 170,000 individuals spread across the Atlantic Arctic.
+  category: habitat
+  source: https://en.wikipedia.org/wiki/Narwhal
+- id: narwhal-name-corpse
+  text: >
+    The name "narwhal" comes from the Old Norse "nár," meaning corpse, a reference to the
+    mottled grayish-white skin that reminded sailors of a drowned body.
+  category: history
+  source: https://en.wikipedia.org/wiki/Narwhal
+- id: narwhal-echolocation-clicks
+  text: >
+    Narwhals produce echolocation clicks mostly in the 19 to 48 kHz range, plus whistles and
+    knocks, with their full vocal repertoire spanning from about 0.3 up to 125 kHz.
+  category: communication
+  source: https://en.wikipedia.org/wiki/Narwhal
+- id: narwhal-whistles-social
+  text: >
+    While clicks are used for hunting and navigation, narwhals rely on whistles and pulsed
+    "throbs" to keep in contact with other members of their pod.
+  category: communication
+  source: https://en.wikipedia.org/wiki/Narwhal

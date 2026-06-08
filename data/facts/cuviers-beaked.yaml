@@ -1,0 +1,151 @@
+- id: cuviers-deep-dive-record
+  text: >
+    A Cuvier's beaked whale tagged off California was recorded diving to nearly
+    2,992 meters (9,816 ft) and holding its breath for 222 minutes — the deepest
+    and longest dive ever documented in any mammal.
+  category: behavior
+  source: https://www.fisheries.noaa.gov/species/cuviers-beaked-whale
+
+- id: cuviers-deepest-mammal
+  text: >
+    Goose-beaked whales (Cuvier's beaked whales) dive deeper than any other
+    known mammal, regularly foraging at 1,000 meters and pushing past 2,900
+    meters on extreme dives.
+  category: behavior
+  source: https://www.nationalgeographic.com/animals/article/140326-cuvier-beaked-whale-record-dive-depth-ocean-animal-science
+
+- id: cuviers-female-toothless
+  text: >
+    Female Cuvier's beaked whales remain effectively toothless their entire
+    lives — only adult males erupt a pair of small forward-jutting teeth at
+    the tip of the lower jaw, used in jousting contests.
+  category: anatomy
+  source: https://www.fisheries.noaa.gov/west-coast/outreach-and-education/killer-whale-and-beaked-whale-posters
+
+- id: cuviers-suction-feeding
+  text: >
+    Cuvier's beaked whales feed by suction, rapidly retracting the tongue and
+    expanding throat grooves to vacuum up deep-sea squid and fish — which is
+    why their teeth are non-functional for feeding.
+  category: diet
+  source: https://www.fisheries.noaa.gov/species/cuviers-beaked-whale
+
+- id: cuviers-sonar-strandings
+  text: >
+    Mass strandings of Cuvier's beaked whales in the Bahamas, Caribbean, Canary
+    Islands, and Mediterranean have been directly associated with naval
+    exercises using mid-frequency active sonar.
+  category: history
+  source: https://www.fisheries.noaa.gov/species/cuviers-beaked-whale/resources
+
+- id: cuviers-sonar-decompression
+  text: >
+    When exposed to military sonar, Cuvier's beaked whales make rapid
+    long-distance flights or premature surfacings that can cause gas emboli
+    and decompression-like injuries similar to the bends in human divers.
+  category: behavior
+  source: https://en.wikipedia.org/wiki/Cetacean_stranding
+
+- id: cuviers-discovery-1823
+  text: >
+    Cuvier's beaked whale was first described by French naturalist Georges
+    Cuvier in 1823 from a single skull found in France, making it the first
+    beaked whale ever known to science.
+  category: history
+  source: https://en.wikipedia.org/wiki/Cuvier%27s_beaked_whale
+
+- id: cuviers-ziphiidae-obscure
+  text: >
+    The species belongs to family Ziphiidae, a group of deep-diving toothed
+    whales that remain among the least-observed large mammals on Earth because
+    they live far offshore and surface only briefly.
+  category: trivia
+  source: https://www.fisheries.noaa.gov/species/cuviers-beaked-whale/science
+
+- id: cuviers-global-range
+  text: >
+    Cuvier's beaked whale is the most widely distributed of all beaked whales,
+    occurring in temperate, subtropical, and tropical waters of nearly every
+    ocean and sea on Earth.
+  category: habitat
+  source: https://www.fisheries.noaa.gov/species/cuviers-beaked-whale
+
+- id: cuviers-canyon-habitat
+  text: >
+    The species favors steep underwater terrain — continental slopes, submarine
+    canyons, and seamounts deeper than 1,000 meters — where deep-scattering
+    layers of squid and fish concentrate.
+  category: habitat
+  source: https://www.fisheries.noaa.gov/species/cuviers-beaked-whale/science
+
+- id: cuviers-goose-beak
+  text: >
+    The whale's nickname "goose-beaked whale" comes from its short, stout beak
+    and sloping melon, which together give it a distinctively goose-like facial
+    profile when seen at the surface.
+  category: anatomy
+  source: https://www.fisheries.noaa.gov/species/cuviers-beaked-whale
+
+- id: cuviers-white-headed-males
+  text: >
+    Older male Cuvier's beaked whales develop a strikingly white or pale head
+    and beak, often crisscrossed with linear scars from tooth-rake battles
+    with rival males.
+  category: anatomy
+  source: https://en.wikipedia.org/wiki/Cuvier%27s_beaked_whale
+
+- id: cuviers-cookiecutter-scars
+  text: >
+    Bodies of Cuvier's beaked whales are typically pockmarked with circular
+    bite scars left by cookiecutter sharks, evidence of the deep oceanic
+    waters they inhabit.
+  category: anatomy
+  source: https://www.fisheries.noaa.gov/species/cuviers-beaked-whale
+
+- id: cuviers-size
+  text: >
+    Adult Cuvier's beaked whales grow to 4.5–7 meters (15–23 feet) long and
+    weigh between 1,800 and 3,100 kilograms, with little size difference
+    between males and females.
+  category: anatomy
+  source: https://www.fisheries.noaa.gov/species/cuviers-beaked-whale
+
+- id: cuviers-small-groups
+  text: >
+    Cuvier's beaked whales are usually seen in small, often female-biased
+    groups of two to seven animals, surfacing quietly between long dives and
+    typically avoiding boats.
+  category: behavior
+  source: https://www.fisheries.noaa.gov/species/cuviers-beaked-whale
+
+- id: cuviers-lifespan
+  text: >
+    NOAA estimates Cuvier's beaked whales can live up to about 60 years,
+    though the deep, secretive lives of beaked whales make accurate aging
+    difficult.
+  category: trivia
+  source: https://www.fisheries.noaa.gov/species/cuviers-beaked-whale
+
+- id: cuviers-gestation
+  text: >
+    Females bear a single calf after a gestation of about one year, giving
+    birth roughly every two to three years; newborns measure about 2–2.7
+    meters and weigh 250–300 kilograms.
+  category: reproduction
+  source: https://www.fisheries.noaa.gov/species/cuviers-beaked-whale
+
+- id: cuviers-iucn-status
+  text: >
+    The IUCN Red List currently classifies Ziphius cavirostris as Least
+    Concern thanks to its wide global distribution, though regional
+    populations exposed to sonar and bycatch may be at higher risk.
+  category: history
+  source: https://en.wikipedia.org/wiki/Cuvier%27s_beaked_whale
+
+- id: cuviers-name-etymology
+  text: >
+    The genus Ziphius derives from the Greek xiphos meaning "sword," while
+    the species name cavirostris means "hollow-snouted," referring to a
+    depression in the skull near the beak.
+  category: trivia
+  source: https://en.wikipedia.org/wiki/Cuvier%27s_beaked_whale

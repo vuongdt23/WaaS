@@ -1,0 +1,119 @@
+- id: irrawaddy-beluga-like-appearance
+  text: >
+    The Irrawaddy dolphin has a bulging, rounded forehead (large melon) and a
+    short, indistinct beak, giving it a blunt head that superficially resembles
+    a small beluga whale.
+  category: anatomy
+  source: https://en.wikipedia.org/wiki/Irrawaddy_dolphin
+
+- id: irrawaddy-flexible-neck
+  text: >
+    Unlike most dolphins, Irrawaddy dolphins can move their necks with unusual
+    flexibility because several of their cervical vertebrae are not fused,
+    allowing visible head-turning.
+  category: anatomy
+  source: https://www.worldwildlife.org/species/irrawaddy-dolphin
+
+- id: irrawaddy-size
+  text: >
+    Adult Irrawaddy dolphins typically reach about 2 to 2.3 meters in length
+    and around 130 kg in weight, with newborn calves about 1 meter long and
+    roughly 10 kg at birth.
+  category: anatomy
+  source: https://en.wikipedia.org/wiki/Irrawaddy_dolphin
+
+- id: irrawaddy-dorsal-fin
+  text: >
+    They have a small, triangular, rounded dorsal fin set about two-thirds of
+    the way down the back, broad pectoral flippers, and a slate-gray body that
+    is paler on the underside.
+  category: anatomy
+  source: https://www.worldwildlife.org/species/irrawaddy-dolphin
+
+- id: irrawaddy-brackish-freshwater-habitat
+  text: >
+    Irrawaddy dolphins are euryhaline, living in brackish water near coasts,
+    estuaries, and river mouths, as well as in freshwater rivers and lakes
+    across South and Southeast Asia.
+  category: habitat
+  source: https://en.wikipedia.org/wiki/Irrawaddy_dolphin
+
+- id: irrawaddy-geographic-range
+  text: >
+    Their patchy range stretches from the Bay of Bengal eastward to New Guinea
+    and the Philippines, with key freshwater strongholds in the Mekong,
+    Ayeyarwady, and Mahakam rivers.
+  category: habitat
+  source: https://www.worldwildlife.org/species/irrawaddy-dolphin
+
+- id: irrawaddy-critically-endangered-subpops
+  text: >
+    While the species is listed as Endangered overall on the IUCN Red List,
+    several freshwater subpopulations in the Mekong, Ayeyarwady, and Mahakam
+    rivers are Critically Endangered, each with fewer than about 100 animals.
+  category: history
+  source: https://www.worldwildlife.org/species/irrawaddy-dolphin
+
+- id: irrawaddy-mekong-population
+  text: >
+    Fewer than 100 Irrawaddy dolphins are estimated to remain in the lower
+    Mekong River along the Cambodia-Laos stretch, making it one of the most
+    threatened freshwater cetacean populations on Earth.
+  category: history
+  source: https://www.worldwildlife.org/magazine/issues/spring-2015/articles/the-mekong
+
+- id: irrawaddy-cooperative-fishing
+  text: >
+    Along Myanmar's Ayeyarwady River near Mandalay, Irrawaddy dolphins have
+    cooperatively fished with cast-net fishermen for centuries, herding fish
+    toward boats after fishermen tap signals on the hull.
+  category: behavior
+  source: https://www.nationalgeographic.com/science/article/150217-irrawaddy-dolphins-myanmar-electro-fishing-mandalay
+
+- id: irrawaddy-water-spitting
+  text: >
+    Irrawaddy dolphins are famous for spitting jets of water from their mouths,
+    a behavior they appear to use to herd fish into tight clusters and which
+    may also serve as a courtship display.
+  category: behavior
+  source: https://www.nationalgeographic.com/animals/article/irrawaddy-dolphin-disappearing
+
+- id: irrawaddy-diet
+  text: >
+    Their diet consists mainly of small fish, supplemented by cephalopods such
+    as squid and octopus, and crustaceans like shrimp, foraged across coastal
+    and riverine habitats.
+  category: diet
+  source: https://en.wikipedia.org/wiki/Irrawaddy_dolphin
+
+- id: irrawaddy-reproduction
+  text: >
+    Irrawaddy dolphins have a gestation of about 14 months, producing a single
+    calf that begins eating solid food around 6 months and is typically weaned
+    near 2 years of age.
+  category: reproduction
+  source: https://en.wikipedia.org/wiki/Irrawaddy_dolphin
+
+- id: irrawaddy-small-groups
+  text: >
+    They usually travel in small groups of two or three individuals, sometimes
+    up to about 15, surface with a gentle rolling motion, and rely on
+    echolocation clicks to navigate turbid waters.
+  category: communication
+  source: https://en.wikipedia.org/wiki/Irrawaddy_dolphin
+
+- id: irrawaddy-chilika-flagship
+  text: >
+    In India's Chilika Lake, the Irrawaddy dolphin is the flagship species and
+    forms one of only two known lagoon populations globally, threatened mainly
+    by floating gill nets and tourist boat strikes.
+  category: habitat
+  source: https://www.wwfindia.org/get_involved/e6
+
+- id: irrawaddy-rare-freshwater-mammal
+  text: >
+    Irrawaddy dolphins belong to a small group of only about six marine mammal
+    species worldwide that can thrive in freshwater as well as marine and
+    brackish habitats.
+  category: trivia
+  source: https://www.worldwildlife.org/species/irrawaddy-dolphin

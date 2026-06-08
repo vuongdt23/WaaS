@@ -40,3 +40,99 @@
     gathering in the same estuaries each summer for thousands of years.
   category: habitat
   source: https://www.fisheries.noaa.gov/species/beluga-whale
+- id: beluga-blubber-forty-percent
+  text: >
+    A beluga's blubber layer can account for up to 40% of its body weight, providing both
+    insulation against freezing seas and a vital energy reserve.
+  category: anatomy
+  source: https://en.wikipedia.org/wiki/Beluga_whale
+- id: beluga-deep-divers
+  text: >
+    Belugas regularly dive to 400-700 meters and hold their breath 15-20 minutes, with maximum
+    recorded dives exceeding 1,000 meters in tagging studies.
+  category: behavior
+  source: https://en.wikipedia.org/wiki/Beluga_whale
+- id: beluga-blunt-teeth
+  text: >
+    Belugas have 36-40 small, blunt teeth used to grasp rather than chew, so they swallow
+    fish, squid, and crustaceans whole.
+  category: anatomy
+  source: https://www.fisheries.noaa.gov/species/beluga-whale
+- id: beluga-pod-size
+  text: >
+    Pods typically include 2-25 belugas, but summer estuary aggregations can swell into the
+    hundreds or even thousands as different pods mix together.
+  category: behavior
+  source: https://www.nationalgeographic.com/animals/mammals/facts/beluga-whale
+- id: beluga-cooperative-herding
+  text: >
+    In Alaska's Cook Inlet, belugas cooperatively herd fish into shallow water, a tactic that
+    boosts hunting success but raises the risk of stranding on mudflats as tides recede.
+  category: behavior
+  source: https://www.fisheries.noaa.gov/alaska/outreach-and-education/5-facts-learned-beluga-whale-research
+- id: beluga-orca-polar-bear-predators
+  text: >
+    Killer whales and polar bears are the beluga's main natural predators, often striking when
+    whales are trapped in ice leads or surfacing at the floe edge.
+  category: behavior
+  source: https://en.wikipedia.org/wiki/Beluga_whale
+- id: beluga-long-gestation
+  text: >
+    Beluga gestation lasts roughly 14.5 months, and females typically wait multiple years between
+    calves, giving the species a famously slow reproductive rate.
+  category: reproduction
+  source: https://en.wikipedia.org/wiki/Cumberland_Sound_beluga
+- id: beluga-near-threatened
+  text: >
+    The IUCN Red List currently classifies the beluga whale as Near Threatened, with the global
+    population trend assessed as unknown across its many subpopulations.
+  category: trivia
+  source: https://en.wikipedia.org/wiki/Beluga_whale
+- id: beluga-cook-inlet-endangered
+  text: >
+    The Cook Inlet beluga population is listed as endangered under the U.S. Endangered Species
+    Act and has shown no clear recovery despite a long-standing ban on hunting.
+  category: history
+  source: https://www.fisheries.noaa.gov/species/beluga-whale
+- id: beluga-narwhal-cousin
+  text: >
+    The beluga is the only living member of the genus Delphinapterus and shares the family
+    Monodontidae with just one other species, the tusked narwhal.
+  category: trivia
+  source: https://en.wikipedia.org/wiki/Beluga_whale
+- id: beluga-echolocation-clicks
+  text: >
+    Beluga echolocation clicks can exceed 100-120 kHz, letting them resolve fine details of
+    prey and surroundings while also passing social information in burst-pulse sequences.
+  category: communication
+  source: https://www.fisheries.noaa.gov/feature-story/beluga-whale-sounds-aid-scientific-understanding-when-whales-are-hunting-prey
+- id: beluga-no-dorsal-fin
+  text: >
+    Instead of a dorsal fin, belugas carry a tough, sparsely innervated dorsal ridge, an
+    adaptation that helps them swim under ice and even break thin sea ice without injury.
+  category: anatomy
+  source: https://www.fisheries.noaa.gov/resource/document/endangered-beluga-whales-cook-inlet-alaska
+- id: beluga-diverse-diet
+  text: >
+    Belugas are opportunistic feeders, eating octopus, squid, crabs, shrimp, clams, sandworms,
+    and a wide range of fish such as salmon, eulachon, cod, herring, smelt, and flatfish.
+  category: diet
+  source: https://www.fisheries.noaa.gov/species/beluga-whale
+- id: beluga-swims-backwards
+  text: >
+    Belugas usually cruise at just 3-9 km/h and are among the very few cetaceans known to swim
+    backwards, thanks to their flexible necks and finely tuned maneuverability.
+  category: behavior
+  source: https://en.wikipedia.org/wiki/Beluga_whale
+- id: beluga-name-russian-white
+  text: >
+    The name "beluga" comes from the Russian "belukha," derived from "belyi" meaning white,
+    a nod to the snowy color adults develop as they mature.
+  category: trivia
+  source: https://en.wikipedia.org/wiki/Beluga_whale
+- id: beluga-cumberland-hbc-hunt
+  text: >
+    Hudson's Bay Company commercial hunts in Cumberland Sound from 1868 to 1940 reduced that
+    beluga population from roughly 5,000 to under 1,000 by the 1970s.
+  category: history
+  source: https://en.wikipedia.org/wiki/Cumberland_Sound_beluga

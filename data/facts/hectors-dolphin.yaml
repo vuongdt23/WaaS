@@ -1,0 +1,84 @@
+- id: hectors-dolphin-smallest-marine
+  text: >
+    Adult Hector's dolphins reach only about 1.4 to 1.5 meters and weigh roughly 40 to 60 kilograms,
+    making them among the smallest marine dolphins in the world.
+  category: anatomy
+  source: https://www.doc.govt.nz/nature/native-animals/marine-mammals/dolphins/hectors-dolphin/
+- id: hectors-dolphin-mickey-mouse-fin
+  text: >
+    Hector's and Maui dolphins are easily recognised by their distinctive rounded black dorsal fin,
+    often compared to a "Mickey Mouse ear", set on a stocky grey body with a white underside.
+  category: anatomy
+  source: https://en.wikipedia.org/wiki/Hector%27s_dolphin
+- id: hectors-dolphin-endemic-nz
+  text: >
+    Hector's dolphin is endemic to New Zealand, found nowhere else on Earth, favouring shallow
+    coastal waters around the South Island and, for the Maui subspecies, the North Island west coast.
+  category: habitat
+  source: https://www.doc.govt.nz/nature/native-animals/marine-mammals/dolphins/hectors-dolphin/
+- id: hectors-dolphin-two-subspecies
+  text: >
+    The species comprises two subspecies: the South Island Hector's dolphin (C. h. hectori) and the
+    much rarer Maui dolphin (C. h. maui), which is restricted to the North Island's west coast.
+  category: trivia
+  source: https://en.wikipedia.org/wiki/M%C4%81ui_dolphin
+- id: hectors-dolphin-maui-critically-endangered
+  text: >
+    The Maui dolphin subspecies is listed as Critically Endangered, with a 2020-2021 estimate of
+    about 54 individuals aged one year or older, implying fewer than around 70 animals remain.
+  category: trivia
+  source: https://www.doc.govt.nz/our-work/protecting-species/protecting-marine-species/our-work-with-maui-dolphin/maui-dolphin-abundance-estimate/
+- id: hectors-dolphin-no-whistles
+  text: >
+    Unlike most dolphins, Hector's and Maui dolphins do not whistle; they communicate and hunt using
+    only narrow-band high-frequency echolocation clicks centred around 110 to 140 kilohertz.
+  category: communication
+  source: https://en.wikipedia.org/wiki/Hector%27s_dolphin
+- id: hectors-dolphin-bycatch-threat
+  text: >
+    Incidental bycatch in coastal set-net (gillnet) and trawl fisheries is the principal human-caused
+    threat to Hector's and Maui dolphins and a primary source of mortality for both subspecies.
+  category: history
+  source: https://www.doc.govt.nz/globalassets/documents/conservation/native-animals/marine-mammals/maui-tmp/hectors-and-maui-dolphin-threat-management-plan-2020.pdf
+- id: hectors-dolphin-slow-reproduction
+  text: >
+    Hector's dolphins reproduce slowly: females reach maturity around 5 to 9 years old and typically
+    give birth to a single calf only once every 2 to 3 years, limiting population recovery.
+  category: reproduction
+  source: https://en.wikipedia.org/wiki/Hector%27s_dolphin
+- id: hectors-dolphin-lifespan
+  text: >
+    Hector's dolphins can live up to about 30 years, although most individuals do not exceed roughly
+    20 years in the wild, with longevity tracked through growth layers in their teeth.
+  category: reproduction
+  source: https://www.doc.govt.nz/globalassets/documents/conservation/native-animals/marine-mammals/maui-hectors-dolphins/dolphins-final-iqp-report-wpi-2014.pdf
+- id: hectors-dolphin-diet
+  text: >
+    Hector's dolphins feed mainly on small fish and cephalopods such as squid, often making short
+    dives of about one to one-and-a-half minutes to capture prey near the seafloor in shallow water.
+  category: diet
+  source: https://en.wikipedia.org/wiki/Hector%27s_dolphin
+- id: hectors-dolphin-small-pods
+  text: >
+    These dolphins are highly social and typically travel in small pods of fewer than ten
+    individuals, frequently surfacing and leaping playfully in shallow coastal waters.
+  category: behavior
+  source: https://en.wikipedia.org/wiki/Hector%27s_dolphin
+- id: hectors-dolphin-named-for-james-hector
+  text: >
+    The species was named in honour of Sir James Hector, a 19th-century Scottish-born New Zealand
+    scientist and curator who was influential in the country's early natural history research.
+  category: history
+  source: https://en.wikipedia.org/wiki/Hector%27s_dolphin
+- id: hectors-dolphin-shallow-coastal
+  text: >
+    Maui dolphins are typically found in waters shallower than about 20 metres along New Zealand's
+    North Island west coast, generally between Maunganui Bluff and Whanganui.
+  category: habitat
+  source: https://en.wikipedia.org/wiki/M%C4%81ui_dolphin
+- id: hectors-dolphin-toxoplasmosis
+  text: >
+    Beyond fishing, Hector's and Maui dolphins face threats from toxoplasmosis, boat strike, marine
+    mining, oil and gas exploration, tourism disturbance, and underwater noise pollution.
+  category: trivia
+  source: https://www.doc.govt.nz/nature/native-animals/marine-mammals/dolphins/hectors-dolphin/

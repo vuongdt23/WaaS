@@ -1,0 +1,105 @@
+- id: pygmy-sperm-ink-defense
+  text: >
+    When startled, pygmy sperm whales release over three gallons of reddish-brown
+    intestinal fluid stored in a modified colon, creating a dark cloud in the water
+    that confuses predators while they slip away, much like a squid's ink defense.
+  category: behavior
+  source: https://www.fisheries.noaa.gov/species/pygmy-sperm-whale
+- id: pygmy-sperm-shark-like-profile
+  text: >
+    With a compact body, squared head, small underslung lower jaw, and a tall
+    falcate dorsal fin, pygmy sperm whales can present a shark-like profile when
+    only the fin and back are visible at the surface.
+  category: anatomy
+  source: https://en.wikipedia.org/wiki/Kogiidae
+- id: pygmy-sperm-false-gill
+  text: >
+    A distinctive crescent-shaped pale mark known as a false gill slit sits behind
+    each eye of the pygmy sperm whale, reinforcing its shark-like appearance and
+    helping observers distinguish it from other small cetaceans.
+  category: anatomy
+  source: https://en.wikipedia.org/wiki/Kogiidae
+- id: pygmy-sperm-spermaceti
+  text: >
+    Like its much larger cousin the sperm whale, the pygmy sperm whale carries a
+    spermaceti organ in its head, a sac of waxy oil that helps focus and modulate
+    the sounds it uses for echolocation in the deep sea.
+  category: anatomy
+  source: https://en.wikipedia.org/wiki/Spermaceti_organ
+- id: pygmy-sperm-high-frequency-clicks
+  text: >
+    Pygmy sperm whales belong to the very high frequency group of toothed whales,
+    with hearing extending well above 100 kHz and producing narrowband
+    high-frequency echolocation clicks suited for hunting in dark deep water.
+  category: communication
+  source: https://en.wikipedia.org/wiki/Kogiidae
+- id: pygmy-sperm-squid-hunter
+  text: >
+    The pygmy sperm whale is a deep-diving squid hunter that also takes octopus,
+    fish, and crustaceans such as crabs and shrimp, using suction feeding to draw
+    prey rapidly into its small mouth rather than chasing it down.
+  category: diet
+  source: https://www.fisheries.noaa.gov/species/pygmy-sperm-whale
+- id: pygmy-sperm-deep-diver
+  text: >
+    Kogiids including the pygmy sperm whale are believed to dive to depths of
+    around 500 meters or more in pursuit of deep-water cephalopod prey, which
+    helps explain why they are seldom seen alive at the surface.
+  category: behavior
+  source: https://en.wikipedia.org/wiki/Kogiidae
+- id: pygmy-sperm-logging
+  text: >
+    At the surface pygmy sperm whales are typically slow swimmers that lie still
+    or log motionless on the water, producing barely visible blows and sinking
+    quietly out of sight without lifting their tail flukes.
+  category: behavior
+  source: https://en.wikipedia.org/wiki/Kogiidae
+- id: pygmy-sperm-cosmopolitan-range
+  text: >
+    Pygmy sperm whales inhabit tropical, subtropical, and temperate oceans
+    worldwide, generally favoring deep offshore waters along continental shelves
+    and slopes near steep underwater topography.
+  category: habitat
+  source: https://www.fisheries.noaa.gov/species/pygmy-sperm-whale
+- id: pygmy-sperm-rarely-seen
+  text: >
+    Despite a cosmopolitan distribution, pygmy sperm whales are cryptic and
+    rarely sighted alive at sea, so most of what scientists know about them comes
+    from stranded animals washed up on beaches.
+  category: trivia
+  source: https://www.fisheries.noaa.gov/species/pygmy-sperm-whale
+- id: pygmy-sperm-confused-with-dwarf
+  text: >
+    Pygmy sperm whales look so similar to their close relatives, dwarf sperm
+    whales, that field identification is difficult, and the two were not even
+    recognized as separate species until 1966.
+  category: history
+  source: https://www.fisheries.noaa.gov/species/pygmy-sperm-whale
+- id: pygmy-sperm-blainville
+  text: >
+    The pygmy sperm whale, Kogia breviceps, was first scientifically described by
+    French zoologist Henri de Blainville in 1838, long before it was clearly
+    distinguished from the dwarf sperm whale Kogia sima.
+  category: history
+  source: https://en.wikipedia.org/wiki/Kogiidae
+- id: pygmy-sperm-lifespan
+  text: >
+    Pygmy sperm whales can live up to about 23 years, reaching sexual maturity
+    between four and five years of age, modest figures compared with the
+    century-plus lifespans of some larger whales.
+  category: reproduction
+  source: https://www.fisheries.noaa.gov/species/pygmy-sperm-whale
+- id: pygmy-sperm-calving-season
+  text: >
+    In the Northern Hemisphere, pygmy sperm whale mating and calving season spans
+    about nine months and peaks from March through August, with gestation lasting
+    roughly nine to eleven months and calves weaned at about a year old.
+  category: reproduction
+  source: https://www.fisheries.noaa.gov/species/pygmy-sperm-whale
+- id: pygmy-sperm-small-groups
+  text: >
+    Pygmy sperm whales travel alone or in small groups and rarely surface, a
+    cryptic lifestyle that may help them avoid predators such as orcas in the
+    open ocean.
+  category: behavior
+  source: https://en.wikipedia.org/wiki/Kogiidae

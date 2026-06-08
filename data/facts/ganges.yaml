@@ -1,0 +1,90 @@
+- id: ganges-eyes-lack-lens
+  text: >
+    The Ganges river dolphin's eyes are so reduced that they lack a lens entirely — they cannot
+    form an image and only detect light direction, leaving the animal essentially blind.
+  source: https://en.wikipedia.org/wiki/Ganges_river_dolphin
+  category: anatomy
+- id: ganges-echolocation-in-muddy-water
+  text: >
+    Because the silt-laden Ganges and Brahmaputra are too turbid for vision to be useful, the
+    species relies entirely on high-frequency echolocation clicks to navigate and hunt prey.
+  source: https://www.worldwildlife.org/species/ganges-river-dolphin
+  category: communication
+- id: ganges-side-swimming
+  text: >
+    Ganges river dolphins typically swim on their side near the river bottom, often trailing one
+    flipper through the mud as they sweep their long beak to detect prey.
+  source: https://en.wikipedia.org/wiki/Ganges_river_dolphin
+  category: behavior
+- id: ganges-long-toothed-rostrum
+  text: >
+    The species sports a slender 18-21 cm rostrum lined with roughly 28-29 sharp teeth on each
+    side, many of which remain visible even when the jaws are closed.
+  source: https://en.wikipedia.org/wiki/Ganges_river_dolphin
+  category: anatomy
+- id: ganges-flexible-neck
+  text: >
+    Unlike most marine dolphins, Platanista gangetica has a visibly constricted, flexible neck
+    that lets it turn its head independently of its body — useful for probing the river bed.
+  source: https://en.wikipedia.org/wiki/Ganges_river_dolphin
+  category: anatomy
+- id: ganges-females-larger
+  text: >
+    Females are the larger sex, reaching about 2.67 m in length compared to roughly 2.12 m for
+    males — a reversal of the size pattern seen in many cetaceans.
+  source: https://www.wwfindia.org/about_wwf/priority_species/threatened_species/ganges_river_dolphin/
+  category: anatomy
+- id: ganges-solitary-mother-calf
+  text: >
+    Ganges river dolphins are usually encountered alone or in very small groups, with the most
+    common pairing being a mother travelling with her single calf.
+  source: https://www.worldwildlife.org/species/ganges-river-dolphin
+  category: behavior
+- id: ganges-fish-and-shrimp-diet
+  text: >
+    Their diet centres on freshwater fish such as carp and catfish, supplemented with crustaceans
+    including shrimp and crabs scooped from the muddy river substrate.
+  source: https://www.worldwildlife.org/species/ganges-river-dolphin
+  category: diet
+- id: ganges-river-systems-range
+  text: >
+    The species inhabits the Ganges-Brahmaputra-Meghna and Karnaphuli-Sangu river systems across
+    India, Nepal, and Bangladesh, with remnant populations in Nepal's Karnali and Sapta-Kosi.
+  source: https://en.wikipedia.org/wiki/Ganges_river_dolphin
+  category: habitat
+- id: ganges-strictly-freshwater
+  text: >
+    Unlike most cetaceans, the Ganges river dolphin is strictly freshwater and cannot survive in
+    marine environments — it spends its entire life in inland river channels.
+  source: https://www.worldwildlife.org/species/ganges-river-dolphin
+  category: habitat
+- id: ganges-gestation-and-calving
+  text: >
+    Females carry a calf for roughly 9-11 months and typically give birth to a single chocolate-
+    brown calf only once every two to three years, making population recovery slow.
+  source: https://www.wwfindia.org/about_wwf/priority_species/threatened_species/ganges_river_dolphin/
+  category: reproduction
+- id: ganges-ancient-lineage
+  text: >
+    Platanistid river dolphins diverged from other toothed whales roughly 20-25 million years
+    ago in the Miocene, making the Ganges river dolphin an ancient and independent lineage.
+  source: https://en.wikipedia.org/wiki/Ganges_river_dolphin
+  category: history
+- id: ganges-national-aquatic-animal
+  text: >
+    On 5 October 2009 the Government of India formally adopted the Ganga river dolphin as the
+    country's National Aquatic Animal, recognising it as a flagship for river conservation.
+  source: https://www.wwfindia.org/about_wwf/priority_species/threatened_species/ganges_river_dolphin/dolphin_day/
+  category: history
+- id: ganges-endangered-iucn
+  text: >
+    The Ganges river dolphin has been listed as Endangered on the IUCN Red List since 1996, with
+    only a few thousand individuals estimated across its fragmented river range.
+  source: https://www.iucnredlist.org/species/41758/151913336
+  category: trivia
+- id: ganges-threats-dams-bycatch
+  text: >
+    Dams and barrages that fragment habitat, agricultural and industrial pollution, and accidental
+    bycatch in fishing nets remain the leading threats driving the species' decline.
+  source: https://www.worldwildlife.org/species/ganges-river-dolphin
+  category: trivia
