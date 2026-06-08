@@ -2,16 +2,16 @@
 
 A static JSON API of hand-curated whale facts. No keys, no rate limits, no ads. Hosted on GitHub Pages.
 
-**Live:** https://<your-username>.github.io/WaaS/
+**Live:** https://vuongdt23.github.io/WaaS/
 
 ## Quick start
 
 ```sh
-curl https://<your-username>.github.io/WaaS/api/random.json
+curl https://vuongdt23.github.io/WaaS/api/random.json
 ```
 
 ```js
-const fact = await fetch("https://<your-username>.github.io/WaaS/api/random.json").then(r => r.json());
+const fact = await fetch("https://vuongdt23.github.io/WaaS/api/random.json").then(r => r.json());
 console.log(fact.text);
 ```
 
