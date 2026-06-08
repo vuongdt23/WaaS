@@ -40,3 +40,81 @@
     across one of the widest vocal ranges of any mammal.
   category: communication
   source: https://www.fisheries.noaa.gov/alaska/outreach-and-education/5-icebreakers-about-bowhead-whales
+- id: bowhead-only-arctic-baleen
+  text: >
+    Bowheads are the only baleen whales endemic to the Arctic and sub-Arctic, spending their entire
+    lives in icy waters rather than migrating to temperate or tropical breeding grounds.
+  category: habitat
+  source: https://iwc.int/about-whales/whale-species/bowhead-whale
+- id: bowhead-four-stocks
+  text: >
+    Scientists recognize four distinct bowhead stocks; while the species overall is Least Concern,
+    the East Greenland-Svalbard-Barents Sea and Okhotsk Sea subpopulations are listed as Endangered.
+  category: habitat
+  source: https://iwc.int/about-whales/whale-species/bowhead-whale
+- id: bowhead-late-maturity
+  text: >
+    Bowhead reproduction is exceptionally slow — females typically begin calving around age 25 and
+    bear a single calf only every 3 to 7 years after a 13 to 14 month gestation.
+  category: reproduction
+  source: https://iwc.int/about-whales/whale-species/bowhead-whale
+- id: bowhead-1000kg-calves
+  text: >
+    Newborn bowhead calves weigh roughly 1,000 kg and are weaned at 6 to 12 months, growing faster
+    in their first year than at any other point in their long lives.
+  category: reproduction
+  source: https://iwc.int/about-whales/whale-species/bowhead-whale
+- id: bowhead-spring-calving
+  text: >
+    Most Bering-Chukchi-Beaufort calves are born during the spring migration between early April
+    and late May, traveling alongside mothers from Bering Sea wintering grounds toward the Beaufort.
+  category: reproduction
+  source: https://www.fisheries.noaa.gov/science-blog/2017-aerial-surveys-arctic-marine-mammals-post-5
+- id: bowhead-copepod-krill-diet
+  text: >
+    Bowheads are specialized filter feeders whose diet is dominated by tiny copepods and euphausiid
+    krill, but they also opportunistically take small fish and bottom-dwelling crustaceans.
+  category: diet
+  source: https://iwc.int/about-whales/whale-species/bowhead-whale
+- id: bowhead-echelon-feeding
+  text: >
+    In wind-driven krill traps off Utqiagvik, bowheads feed in staggered echelon formations so that
+    trailing whales benefit from the prey concentration and hydrodynamic flow created by the leader.
+  category: behavior
+  source: https://www.fisheries.noaa.gov/science-blog/2017-aerial-surveys-arctic-marine-mammals-post-2
+- id: bowhead-hour-long-dives
+  text: >
+    Typical bowhead dives last 9 to 18 minutes and reach about 150 meters, but the whales can stay
+    submerged for over an hour when navigating beneath extensive sea ice in search of breathing holes.
+  category: behavior
+  source: https://en.wikipedia.org/wiki/Bowhead_whale
+- id: bowhead-slow-cruise
+  text: >
+    Bowheads usually cruise at just 2 to 5 km/h, conserving energy in cold seas, but can sprint up
+    to roughly 10 km/h to escape predators like killer whales.
+  category: behavior
+  source: https://en.wikipedia.org/wiki/Bowhead_whale
+- id: bowhead-acoustic-herds
+  text: >
+    Bowhead calls travel up to about 10 kilometers underwater, allowing the whales to form
+    acoustically linked herds and possibly use sound reflecting off ice to navigate pack ice.
+  category: communication
+  source: https://www.fisheries.noaa.gov/s3/dam-migration/bowheadbrochure07-akr.pdf
+- id: bowhead-jazz-singers
+  text: >
+    Bowhead songs last 45 to 90 seconds and dozens of distinct song types can be recorded in one
+    winter, prompting researchers to liken the whales to improvising jazz musicians of the sea.
+  category: communication
+  source: https://www.nationalgeographic.com/adventure/article/animals-whales-oceans-sounds-communication
+- id: bowhead-disko-bay-aggregation
+  text: >
+    Although usually seen alone or in groups of up to three, bowheads can form dense aggregations;
+    photo-ID work in West Greenland's Disko Bay estimated about 1,410 whales gathering in spring 2010.
+  category: behavior
+  source: https://iwc.int/about-whales/whale-species/bowhead-whale
+- id: bowhead-indigenous-importance
+  text: >
+    Bowhead whales have been a critical nutritional, cultural, and spiritual resource for Arctic
+    Indigenous peoples for thousands of years, with traditional ecological knowledge informing modern science.
+  category: history
+  source: https://www.fisheries.noaa.gov/alaska/outreach-and-education/5-icebreakers-about-bowhead-whales

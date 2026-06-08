@@ -40,3 +40,87 @@
     shallow lagoons of Baja California, far from Arctic orca packs.
   category: reproduction
   source: https://www.fisheries.noaa.gov/species/gray-whale
+- id: gray-whale-adult-length
+  text: >
+    Adult gray whales reach about 49 to 50 feet (roughly 15 meters) in length, making them
+    medium-sized among the great baleen whales.
+  category: anatomy
+  source: https://www.fisheries.noaa.gov/species/gray-whale
+- id: gray-whale-adult-weight
+  text: >
+    A full-grown gray whale tips the scales at around 90,000 pounds, or about 40 to 45 metric
+    tons — comparable to the weight of a loaded semi-truck.
+  category: anatomy
+  source: https://www.fisheries.noaa.gov/species/gray-whale
+- id: gray-whale-baleen-plates
+  text: >
+    Each side of a gray whale's upper jaw carries roughly 130 to 180 baleen plates made of
+    keratin, the same protein that forms human hair and fingernails.
+  category: anatomy
+  source: https://en.wikipedia.org/wiki/Gray_whale
+- id: gray-whale-no-dorsal-fin
+  text: >
+    Instead of a true dorsal fin, gray whales have a low dorsal hump followed by a series of
+    6 to 12 bumps called "knuckles" running down the back to the tail flukes.
+  category: anatomy
+  source: https://www.fisheries.noaa.gov/species/gray-whale
+- id: gray-whale-epic-migration
+  text: >
+    The gray whale's annual round-trip migration of roughly 10,000 to 12,000 miles between Arctic
+    feeding grounds and Mexican breeding lagoons is among the longest of any mammal on Earth.
+  category: behavior
+  source: https://iwc.int/about-whales/whale-species/gray-whale
+- id: gray-whale-lifespan
+  text: >
+    Gray whales typically live 55 to 70 years, and at least one female was estimated to be
+    75 to 80 years old when studied.
+  category: anatomy
+  source: https://en.wikipedia.org/wiki/Gray_whale
+- id: gray-whale-calf-birth-size
+  text: >
+    Newborn gray whale calves arrive into the world already about 14 to 16 feet long and
+    weighing close to 2,000 pounds.
+  category: reproduction
+  source: https://www.fisheries.noaa.gov/species/gray-whale
+- id: gray-whale-gestation
+  text: >
+    Female gray whales carry their single calf for roughly 12 to 13 months before giving birth
+    in the sheltered lagoons of Baja California.
+  category: reproduction
+  source: https://www.fisheries.noaa.gov/species/gray-whale
+- id: gray-whale-rich-milk
+  text: >
+    Gray whale milk is about 53% fat and 6% protein, richer than that of any other known whale
+    or dolphin, fueling rapid calf growth during nursing.
+  category: reproduction
+  source: https://wwhandbook.iwc.int/en/species/gray-whale
+- id: gray-whale-western-endangered
+  text: >
+    The western North Pacific gray whale stock numbers only around 200 individuals and remains
+    listed as endangered under the U.S. Endangered Species Act.
+  category: habitat
+  source: https://www.fisheries.noaa.gov/species/gray-whale
+- id: gray-whale-devilfish
+  text: >
+    Nineteenth-century whalers nicknamed gray whales "devil fish" because mothers fought back
+    so fiercely when their calves were harpooned in the calving lagoons.
+  category: history
+  source: https://en.wikipedia.org/wiki/Gray_whale
+- id: gray-whale-orca-prey
+  text: >
+    Killer whales are the gray whale's main natural predator, often targeting calves during the
+    long northward migration through deep waters off the Pacific coast.
+  category: behavior
+  source: https://www.fisheries.noaa.gov/species/gray-whale
+- id: gray-whale-fossil-family
+  text: >
+    Gray whales are the sole living member of the family Eschrichtiidae, whose fossil relatives
+    such as Archaeschrichtius date back to the Late Miocene epoch.
+  category: history
+  source: https://en.wikipedia.org/wiki/Eschrichtiidae
+- id: gray-whale-calf-darker
+  text: >
+    Gray whale calves are born a dark gray to nearly black color and gradually lighten with age
+    into the mottled gray hue that gives the species its name.
+  category: anatomy
+  source: https://en.wikipedia.org/wiki/Gray_whale

@@ -1,0 +1,75 @@
+- id: rices-2021-description
+  text: >
+    Rice's whale was formally recognized as a distinct species in 2021, after long having
+    been treated as a Gulf of Mexico population of Bryde's whale.
+  category: history
+  source: https://www.fisheries.noaa.gov/southeast/marine-mammal-protection/how-unique-population-brydes-whales-became-rices-whale
+- id: rices-gulf-of-mexico-endemic
+  text: >
+    Rice's whale is endemic to the northern Gulf of Mexico and is the only resident
+    baleen whale species found in those waters.
+  category: habitat
+  source: https://www.fisheries.noaa.gov/resource/document/meet-rices-whale
+- id: rices-fewer-than-100
+  text: >
+    NOAA's best available estimate places the population at roughly 51 individuals, with
+    fewer than 100 Rice's whales thought to remain, making it one of the most endangered
+    whales in the world.
+  category: history
+  source: https://ocean.si.edu/ocean-life/marine-mammals/rices-whale
+- id: rices-named-for-dale-rice
+  text: >
+    The species name honors marine mammal biologist Dale W. Rice, who first documented
+    Bryde's-like whales in the Gulf of Mexico back in 1965.
+  category: history
+  source: https://www.fisheries.noaa.gov/southeast/marine-mammal-protection/how-unique-population-brydes-whales-became-rices-whale
+- id: rices-genetics-vs-brydes
+  text: >
+    Genetic and morphological analyses, including skull features of a 2019 stranded
+    holotype, confirmed Rice's whale as distinct from Bryde's whale and other rorquals.
+  category: anatomy
+  source: https://ocean.si.edu/ocean-life/marine-mammals/rices-whale
+- id: rices-shelf-edge-habitat
+  text: >
+    Rice's whales occupy a narrow band along the outer continental shelf and slope of
+    the northern Gulf, mostly in waters between about 100 and 400 meters deep.
+  category: habitat
+  source: https://www.fisheries.noaa.gov/feature-story/understanding-best-conditions-rices-whales
+- id: rices-driftfish-diet
+  text: >
+    Stable isotope analyses indicate Rice's whales feed selectively on schooling fish,
+    with the silver-rag driftfish Ariomma bondi making up roughly two-thirds of their diet.
+  category: diet
+  source: https://www.fisheries.noaa.gov/resource/peer-reviewed-research/critically-endangered-rices-whales-balaenoptera-ricei-selectively
+- id: rices-diel-diving
+  text: >
+    Tagging studies show Rice's whales follow a diel pattern, diving roughly 200 meters
+    or deeper to forage near the seafloor by day and resting near the surface at night.
+  category: behavior
+  source: https://www.fisheries.noaa.gov/southeast/science-data/listening-new-species-rices-whale-support-its-conservation
+- id: rices-long-moan-calls
+  text: >
+    The known vocal repertoire of Rice's whale includes downsweep-sequence calls,
+    tonal-sequence calls, and a distinctive long-moan call used to track the species
+    acoustically.
+  category: communication
+  source: https://www.fisheries.noaa.gov/southeast/science-data/listening-new-species-rices-whale-support-its-conservation
+- id: rices-oil-and-shipping-threats
+  text: >
+    NOAA identifies oil and gas exploration, oil spills, vessel strikes, and chronic
+    ocean noise from shipping and seismic surveys as the leading threats driving
+    Rice's whale toward extinction.
+  category: history
+  source: https://www.fisheries.noaa.gov/resource/document/meet-rices-whale
+- id: rices-iucn-critically-endangered
+  text: >
+    The IUCN Red List classifies Rice's whale as Critically Endangered, reflecting its
+    tiny population, single restricted range, and exposure to industrial threats.
+  category: history
+  source: https://en.wikipedia.org/wiki/Rice%27s_whale
+- id: rices-size-and-coloration
+  text: >
+    Rice's whales reach about 42 feet long and 60,000 pounds, with a uniformly dark
+    gray back, pale to pinkish belly, and a small falcate dorsal fin.
+  category: anatomy
+  source: https://ocean.si.edu/ocean-life/marine-mammals/rices-whale

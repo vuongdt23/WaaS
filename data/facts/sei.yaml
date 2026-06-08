@@ -1,0 +1,95 @@
+- id: sei-fast-swimmer
+  text: >
+    Sei whales can sprint at speeds approaching 50 km/h (31 mph), ranking
+    them among the fastest of the baleen whales over short distances.
+  category: anatomy
+  source: https://iwc.int/about-whales/whale-species/sei-whale
+- id: sei-skim-feeder
+  text: >
+    Unlike most rorquals that lunge feed, sei whales are unusual skim
+    feeders, swimming near the surface with mouths open to continuously
+    filter prey through their baleen plates.
+  category: behavior
+  source: https://www.fisheries.noaa.gov/feature-story/make-way-whale-week-2019
+- id: sei-cosmopolitan-range
+  text: >
+    Sei whales have a cosmopolitan distribution, occurring in all major
+    oceans and many adjoining seas, though they favor offshore regions
+    rather than coastal waters.
+  category: habitat
+  source: https://en.wikipedia.org/wiki/Sei_whale
+- id: sei-whaling-losses
+  text: >
+    The species suffered severe 20th-century whaling losses, with more
+    than 238,000 sei whales taken globally and populations reduced by
+    as much as 80% from pre-whaling levels.
+  category: history
+  source: https://iwc.int/about-whales/whale-species/sei-whale
+- id: sei-endangered-status
+  text: >
+    Because of those drastic declines from commercial whaling, the sei
+    whale is currently listed as Endangered on the IUCN Red List.
+  category: history
+  source: https://iwc.int/about-whales/whale-species/sei-whale
+- id: sei-size
+  text: >
+    Adult sei whales can reach about 20 meters (66 feet) in length and
+    weigh roughly 45 to 50 metric tons, making them the third-largest
+    rorqual after the blue and fin whales.
+  category: anatomy
+  source: https://en.wikipedia.org/wiki/Sei_whale
+- id: sei-copepod-diet
+  text: >
+    Their diet is dominated by tiny copepods, but they also consume
+    krill, small schooling fish, and occasionally cephalopods such as
+    squid, filtered through fine baleen plates.
+  category: diet
+  source: https://iwc.int/about-whales/whale-species/sei-whale
+- id: sei-deep-water-habitat
+  text: >
+    Sei whales generally prefer deep, open-ocean waters and are often
+    found far from shore in temperate to subpolar zones rather than on
+    continental shelves.
+  category: habitat
+  source: https://www.nationalgeographic.com/animals/article/151120-worlds-largest-whale-stranding-sei-chile-animals
+- id: sei-gestation
+  text: >
+    Sei whale reproduction includes a long gestation of roughly 11 to 12
+    months, with seasonal calving in warmer waters typical of large
+    baleen whales.
+  category: reproduction
+  source: https://iwc.int/about-whales/whale-species/sei-whale
+- id: sei-vocalizations
+  text: >
+    Sei whales communicate using low-frequency calls and downsweeps,
+    sounds that may also help them navigate vast offshore feeding
+    grounds across open ocean basins.
+  category: communication
+  source: https://iwc.int/about-whales/whale-species/sei-whale
+- id: sei-lifespan
+  text: >
+    Sei whales are long-lived animals, with reported lifespans
+    commonly cited at around 50 to 70 years in the wild.
+  category: anatomy
+  source: https://www.nationalgeographic.com/animals/article/151120-worlds-largest-whale-stranding-sei-chile-animals
+- id: sei-population-estimate
+  text: >
+    Current global population estimates remain uncertain, with figures
+    ranging from around 54,000 (2006) to about 80,000 worldwide,
+    reflecting wide gaps in survey coverage.
+  category: history
+  source: https://en.wikipedia.org/wiki/Sei_whale
+- id: sei-norwegian-name
+  text: >
+    The name "sei" comes from the Norwegian word for pollock, a fish
+    that arrives off Norway around the same season as the whale's
+    seasonal appearances.
+  category: trivia
+  source: https://en.wikipedia.org/wiki/Sei_whale
+- id: sei-subtle-rorqual
+  text: >
+    Sei whales are sometimes called the "subtle" rorqual because they
+    show a low profile at the surface and rarely raise their flukes
+    when diving, making them hard to spot.
+  category: trivia
+  source: https://www.fisheries.noaa.gov/feature-story/make-way-whale-week-2019

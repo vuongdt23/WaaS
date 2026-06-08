@@ -46,3 +46,81 @@
     push seawater out through the baleen during feeding.
   category: anatomy
   source: https://www.nationalgeographic.com/animals/mammals/facts/blue-whale
+- id: blue-whale-aorta-width
+  text: >
+    A blue whale's aorta — the main artery leaving the heart — is roughly 23 centimeters across,
+    wide enough to fit a small fist through.
+  category: anatomy
+  source: https://en.wikipedia.org/wiki/Largest_body_part
+- id: blue-whale-stretchy-nerves
+  text: >
+    Rorqual nerves in a blue whale's jaw and tongue are accordion-like, stretching to over 160% of
+    their resting length as the throat pouch balloons during a lunge.
+  category: anatomy
+  source: https://www.nationalgeographic.com/science/article/giant-whales-have-super-stretchy-nerves
+- id: blue-whale-mouthful-calories
+  text: >
+    A single lunge into a dense krill swarm can engulf around 110 tons of water and yield roughly
+    457,000 calories — about half a million calories in one mouthful.
+  category: diet
+  source: https://www.nationalgeographic.com/science/article/blue-whales-can-eat-half-a-million-calories-in-a-single-mouthful
+- id: blue-whale-infrasonic-calls
+  text: >
+    Blue whale calls have fundamental frequencies of just 8 to 25 hertz, mostly below the range of
+    human hearing, and can travel up to about 1,600 kilometers under favorable conditions.
+  category: communication
+  source: https://www.fisheries.noaa.gov/national/science-data/sounds-ocean-mammals
+- id: blue-whale-song-pitch-drop
+  text: >
+    Eastern North Pacific blue whale songs have dropped roughly 31% in tonal frequency since the
+    early 1960s — a mysterious multi-decade decline biologists still cannot fully explain.
+  category: communication
+  source: https://en.wikipedia.org/wiki/Whale_vocalization
+- id: blue-whale-only-males-sing
+  text: >
+    Both sexes produce simple calls, but only male blue whales are known to perform the long,
+    patterned songs, often singing more around sunset and through the night.
+  category: behavior
+  source: https://www.nationalgeographic.com/science/article/blue-whale-songs-behavior-decoded-spd
+- id: blue-whale-sprint-speed
+  text: >
+    Blue whales typically cruise at just 5 mph but can sprint at 20 to 30 mph in short bursts when
+    fleeing predators or interacting with other whales.
+  category: behavior
+  source: https://www.fisheries.noaa.gov/species/blue-whale
+- id: blue-whale-dive-heart-rate
+  text: >
+    During deep dives a blue whale's heart can slow to about 2 beats per minute, then surge to
+    around 37 beats per minute as the animal returns to the surface.
+  category: anatomy
+  source: https://en.wikipedia.org/wiki/Blue_whale
+- id: blue-whale-dive-depth
+  text: >
+    Although blue whales spend most of their time near the surface, tagged individuals have been
+    recorded diving to at least 510 meters in pursuit of krill.
+  category: behavior
+  source: https://en.wikipedia.org/wiki/Blue_whale
+- id: blue-whale-southern-whaling
+  text: >
+    More than 350,000 blue whales were killed in the Southern Hemisphere alone during 20th-century
+    industrial whaling, slashing the population to a tiny fraction of its original size.
+  category: history
+  source: https://en.wikipedia.org/wiki/Blue_whale
+- id: blue-whale-calving-interval
+  text: >
+    Female blue whales generally give birth only every 2 to 3 years after a gestation of roughly
+    10 to 12 months, one of the longest among baleen whales.
+  category: reproduction
+  source: https://www.fisheries.noaa.gov/species/blue-whale
+- id: blue-whale-52-hertz
+  text: >
+    The famous "52-hertz whale" calls at a pitch far higher than any known blue or fin whale,
+    earning it a reputation as the world's loneliest whale since its discovery in 1989.
+  category: trivia
+  source: https://en.wikipedia.org/wiki/52-hertz_whale
+- id: blue-whale-mostly-solitary
+  text: >
+    Despite their size, blue whales are usually solitary or travel in pairs, with no stable social
+    structure beyond the strong bond between a mother and her calf.
+  category: behavior
+  source: https://en.wikipedia.org/wiki/Blue_whale

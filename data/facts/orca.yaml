@@ -331,3 +331,77 @@
     making the killer whale really a killer dolphin.
   category: trivia
   source: https://en.wikipedia.org/wiki/Orca
+- id: orca-type-b1-pack-ice
+  text: >
+    Type B1 "pack ice" Antarctic orcas are medium-gray rather than black, sport huge eye patches,
+    and specialize in coordinated wave-washing attacks on Weddell seals resting on floes.
+  category: anatomy
+  source: https://en.wikipedia.org/wiki/Orca_types_and_populations
+- id: orca-type-b2-molt-migration
+  text: >
+    Type B2 "Gerlache" Antarctic orcas make rapid round-trip migrations of thousands of kilometers
+    to subtropical waters, apparently to molt diatom-stained outer skin in warmer seas.
+  category: behavior
+  source: >-
+    https://www.fisheries.noaa.gov/feature-story/why-do-whales-migrate-they-return-tropics-shed-their-skin-scientists-say
+- id: orca-type-c-smallest
+  text: >
+    Type C Ross Sea orcas are the smallest known ecotype, with adult males reaching only about 6
+    meters, and they specialize in hunting Antarctic toothfish beneath the sea ice.
+  category: anatomy
+  source: https://en.wikipedia.org/wiki/Orca_types_and_populations
+- id: orca-crozet-elephant-seals
+  text: >
+    A small population of about 65 orcas around France's Crozet Islands lunges into the surf to
+    grab elephant seals, and also depredates Patagonian toothfish from longline fisheries.
+  category: diet
+  source: https://en.wikipedia.org/wiki/Orca_types_and_populations
+- id: orca-gibraltar-tuna
+  text: >
+    Strait of Gibraltar orcas have learned to chase down Atlantic bluefin tuna at speeds over 30
+    mph, sometimes following longline boats and stripping hooked tuna for an easy meal.
+  category: diet
+  source: https://en.wikipedia.org/wiki/Orca_types_and_populations
+- id: orca-norwegian-carousel
+  text: >
+    Norwegian orcas perform "carousel feeding," herding herring into a tight ball with bubbles and
+    flashing white bellies, then taking turns slapping the ball with their tails to stun fish.
+  category: behavior
+  source: https://en.wikipedia.org/wiki/Carousel_feeding
+- id: orca-countershading
+  text: >
+    The orca's striking black-and-white pattern is classic countershading: dark above and light
+    below flattens its silhouette under downwelling light, helping it ambush prey from any angle.
+  category: anatomy
+  source: https://en.wikipedia.org/wiki/Countershading
+- id: orca-2024-species-split
+  text: >
+    In 2024 NOAA-affiliated researchers proposed splitting fish-eating residents and mammal-eating
+    Bigg's orcas into separate species, Orcinus ater and Orcinus rectipinnus, reviving 1860s names.
+  category: history
+  source: >-
+    https://www.fisheries.noaa.gov/feature-story/lost-skulls-and-latin-how-scientists-chose-names-newly-identified-killer-whale-species
+- id: orca-subspecies-recognized
+  text: >
+    The Society for Marine Mammalogy's Taxonomy Committee in 2024 declined full species status but
+    formally recognized Bigg's and resident orcas as distinct subspecies of Orcinus orca.
+  category: history
+  source: https://orca.wa.gov/killer-whales-to-remain-one-species-for-now/
+- id: orca-newborn-orange
+  text: >
+    Newborn orca calves are born with their "white" patches tinted yellowish or orange, a hue that
+    fades to bright white over their first year as the thin neonatal skin layer is shed.
+  category: reproduction
+  source: https://en.wikipedia.org/wiki/Orca
+- id: orca-male-bigger
+  text: >
+    Sexual dimorphism is pronounced in orcas: adult males may reach 9 meters and 5,500 kilograms,
+    while females top out near 7.7 meters and 3,800 kilograms — a gap that widens through life.
+  category: anatomy
+  source: https://en.wikipedia.org/wiki/Orca
+- id: orca-blubber-insulation
+  text: >
+    Orcas survive in polar seas thanks to a vascularized blubber layer that can exceed 10 cm thick,
+    serving as insulation, energy reserve, and buoyancy aid all in one.
+  category: anatomy
+  source: https://ocean.si.edu/ocean-life/marine-mammals/whales

@@ -29,3 +29,43 @@
 - slug: bowhead
   common_name: Bowhead whale
   scientific_name: Balaena mysticetus
+
+- slug: rices
+  common_name: Rice's whale
+  scientific_name: Balaenoptera ricei
+
+- slug: north-atlantic-right
+  common_name: North Atlantic right whale
+  scientific_name: Eubalaena glacialis
+
+- slug: sei
+  common_name: Sei whale
+  scientific_name: Balaenoptera borealis
+
+- slug: cuviers-beaked
+  common_name: Cuvier's beaked whale
+  scientific_name: Ziphius cavirostris
+
+- slug: vaquita
+  common_name: Vaquita
+  scientific_name: Phocoena sinus
+
+- slug: pygmy-sperm
+  common_name: Pygmy sperm whale
+  scientific_name: Kogia breviceps
+
+- slug: baiji
+  common_name: Baiji (Yangtze river dolphin)
+  scientific_name: Lipotes vexillifer
+
+- slug: hectors-dolphin
+  common_name: Hector's dolphin
+  scientific_name: Cephalorhynchus hectori
+
+- slug: irrawaddy
+  common_name: Irrawaddy dolphin
+  scientific_name: Orcaella brevirostris
+
+- slug: ganges
+  common_name: Ganges river dolphin
+  scientific_name: Platanista gangetica

@@ -46,3 +46,81 @@
     for years and only return to warm waters to breed.
   category: behavior
   source: https://www.fisheries.noaa.gov/species/sperm-whale
+- id: sperm-whale-lifespan
+  text: >
+    Sperm whales are remarkably long-lived, with individuals reaching 70 years or more, placing them
+    among the most enduring of all toothed whales.
+  category: anatomy
+  source: https://en.wikipedia.org/wiki/Sperm_whale
+- id: sperm-whale-sexual-dimorphism
+  text: >
+    Adult males average about 16 meters and 45 tons while females top out near 11 meters and 15 tons,
+    one of the most extreme size disparities among toothed whales.
+  category: anatomy
+  source: https://www.fisheries.noaa.gov/feature-story/sperm-whales-revealing-mysteries-deep
+- id: sperm-whale-gestation
+  text: >
+    Females carry a single calf for a 14- to 16-month gestation, one of the longest pregnancies of
+    any mammal, and the newborn emerges roughly 4 meters (13 feet) long.
+  category: reproduction
+  source: https://www.fisheries.noaa.gov/species/sperm-whale
+- id: sperm-whale-extended-nursing
+  text: >
+    Sperm whale calves start eating solid food around age one but may keep nursing for several more
+    years, sometimes until the mother's next calf arrives.
+  category: reproduction
+  source: https://iwc.int/about-whales/whale-species/sperm-whale
+- id: sperm-whale-conical-teeth
+  text: >
+    Only the lower jaw bears teeth — up to 26 pairs of stout conical pegs that slot into sockets in
+    the upper jaw and grip slippery squid prey.
+  category: anatomy
+  source: https://www.fisheries.noaa.gov/feature-story/sperm-whales-revealing-mysteries-deep
+- id: sperm-whale-iucn-vulnerable
+  text: >
+    The sperm whale is listed as Vulnerable on the IUCN Red List, and the small Mediterranean
+    subpopulation is separately classified as Endangered.
+  category: history
+  source: https://www.iucnredlist.org/species/pdf/16370477
+- id: sperm-whale-essex-mobydick
+  text: >
+    Herman Melville's 1851 novel Moby-Dick drew on real accounts of sperm whales ramming ships,
+    most famously the 1820 sinking of the Nantucket whaleship Essex.
+  category: history
+  source: https://en.wikipedia.org/wiki/Sperm_whale
+- id: sperm-whale-left-blowhole
+  text: >
+    Sperm whales are the only living cetaceans with a single S-shaped blowhole set on the left front
+    of the head, producing a bushy spout that angles forward and to the left.
+  category: anatomy
+  source: https://www.fisheries.noaa.gov/species/sperm-whale
+- id: sperm-whale-commercial-whaling
+  text: >
+    Commercial whaling from 1800 to 1987 was the primary historical threat to sperm whales, hunted
+    chiefly for spermaceti oil, and populations are still slowly recovering today.
+  category: history
+  source: https://www.fisheries.noaa.gov/species/sperm-whale
+- id: sperm-whale-only-physeter
+  text: >
+    Physeter macrocephalus is the sole living member of the genus Physeter, a lineage that diverged
+    from other toothed whales tens of millions of years ago.
+  category: trivia
+  source: https://en.wikipedia.org/wiki/Physeter
+- id: sperm-whale-modern-threats
+  text: >
+    Today the biggest hazards to sperm whales are entanglement in fishing gear and collisions with
+    large ships, especially busy shipping lanes in the Mediterranean Sea.
+  category: history
+  source: https://www.iucnredlist.org/species/pdf/16370477
+- id: sperm-whale-collapsible-ribcage
+  text: >
+    To survive crushing pressures on deep dives, sperm whales pack muscles with myoglobin and possess
+    a collapsible rib cage that lets the lungs compress instead of rupture.
+  category: anatomy
+  source: https://iwc.int/about-whales/whale-species/sperm-whale
+- id: sperm-whale-squid-and-sharks
+  text: >
+    While medium and giant squid form the bulk of their diet, sperm whales — especially large males —
+    also hunt deep-sea sharks, rays, octopus, and bony fish like cod and hake.
+  category: diet
+  source: https://en.wikipedia.org/wiki/Sperm_whale

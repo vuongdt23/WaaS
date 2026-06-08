@@ -48,3 +48,76 @@
   category: behavior
   source: >-
     https://www.nationalgeographic.com/animals/article/humpback-whales-save-animals-killer-whales-explained
+- id: humpback-baleen-plates
+  text: >
+    Instead of teeth, humpbacks possess 270 to 400 keratin baleen plates per side of the upper jaw,
+    each roughly 60 to 90 centimeters long, used to filter krill and small fish from seawater.
+  category: anatomy
+  source: https://en.wikipedia.org/wiki/Baleen
+- id: humpback-krill-tonnage
+  text: >
+    A single adult humpback can consume around nine tonnes of krill in one day during peak feeding
+    season, far more than older estimates suggested before tagging studies.
+  category: diet
+  source: https://ocean.si.edu/ocean-life/marine-mammals/tons-whales-eatand-poop
+- id: humpback-gestation
+  text: >
+    Female humpbacks carry a single calf for about 11 to 12 months and typically give birth only
+    once every two to three years on tropical breeding grounds.
+  category: reproduction
+  source: https://www.fisheries.noaa.gov/species/humpback-whale
+- id: humpback-newborn-size
+  text: >
+    Humpback calves are born around 4 to 5 meters long and weigh roughly 900 kilograms — already
+    about the mass of a small car at birth.
+  category: reproduction
+  source: https://www.fisheries.noaa.gov/species/humpback-whale
+- id: humpback-lifespan
+  text: >
+    Humpback whales are believed to live about 80 to 90 years, with age estimates derived from
+    layered ear plugs and other long-term biological markers.
+  category: anatomy
+  source: https://www.fisheries.noaa.gov/species/humpback-whale
+- id: humpback-two-blowholes
+  text: >
+    Like all baleen whales, humpbacks have two blowholes side by side on top of the head, and their
+    exhaled blow can shoot more than 4 meters into the air.
+  category: anatomy
+  source: https://www.fisheries.noaa.gov/species/humpback-whale
+- id: humpback-tubercles
+  text: >
+    The golf-ball-sized bumps on a humpback's head and flippers, called tubercles, each contain a
+    hair follicle and improve hydrodynamic performance during tight feeding maneuvers.
+  category: anatomy
+  source: https://en.wikipedia.org/wiki/Humpback_whale
+- id: humpback-barnacle-passengers
+  text: >
+    A single humpback can carry hundreds of kilograms of barnacles, especially Coronula species,
+    along with amphipod whale lice that cling to skin folds and the head.
+  category: trivia
+  source: https://en.wikipedia.org/wiki/Humpback_whale
+- id: humpback-iucn-status
+  text: >
+    The humpback whale is currently listed as Least Concern on the IUCN Red List, with a globally
+    increasing population trend following decades of post-whaling recovery.
+  category: history
+  source: https://www.iucnredlist.org/species/13006/50362794
+- id: humpback-cuvier-1781
+  text: >
+    The species was formally described as Megaptera novaeangliae — meaning "big wing of New
+    England" — by German naturalist Georg Heinrich Borowski in 1781.
+  category: history
+  source: https://en.wikipedia.org/wiki/Humpback_whale
+- id: humpback-hawaii-sanctuary
+  text: >
+    Each winter, thousands of North Pacific humpbacks gather around the Hawaiian Islands to breed
+    and calve, making the archipelago one of the world's most important humpback nurseries.
+  category: habitat
+  source: >-
+    https://en.wikipedia.org/wiki/Hawaiian_Islands_Humpback_Whale_National_Marine_Sanctuary
+- id: humpback-song-length
+  text: >
+    A humpback song is built from repeated phrases and themes that typically last 10 to 20 minutes,
+    and lone males may cycle through the same song for hours on end.
+  category: communication
+  source: https://en.wikipedia.org/wiki/Humpback_whale

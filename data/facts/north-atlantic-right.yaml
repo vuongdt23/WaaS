@@ -1,0 +1,100 @@
+- id: north-atlantic-right-name-origin
+  text: >
+    Whalers called these animals the "right" whales to hunt because they swim
+    slowly, stay near shore, and float when killed, making them easy targets.
+  category: history
+  source: https://en.wikipedia.org/wiki/North_Atlantic_right_whale
+
+- id: north-atlantic-right-critically-endangered
+  text: >
+    The North Atlantic right whale is one of the world's most endangered large
+    whales, with only about 370 individuals remaining and fewer than 100
+    breeding females.
+  category: trivia
+  source: https://www.fisheries.noaa.gov/feature-story/10-things-you-should-know-about-north-atlantic-right-whales
+
+- id: narw-whaling-impact
+  text: >
+    Centuries of commercial whaling severely reduced the species, and the
+    population has never recovered to pre-whaling numbers.
+  category: history
+  source: https://www.fisheries.noaa.gov/feature-story/flying-high-save-north-atlantic-right-whales
+
+- id: narw-ship-strikes
+  text: >
+    Vessel strikes are a leading cause of death for North Atlantic right whales
+    and a major driver of the species' ongoing decline.
+  category: trivia
+  source: https://www.fisheries.noaa.gov/feature-story/10-things-you-should-know-about-north-atlantic-right-whales
+
+- id: narw-fishing-entanglement
+  text: >
+    Entanglement in fishing gear, especially vertical buoy lines from lobster
+    and crab traps, is a primary threat causing injury and mortality.
+  category: trivia
+  source: https://www.fisheries.noaa.gov/insight/how-you-can-help-north-atlantic-right-whales
+
+- id: narw-callosities
+  text: >
+    Right whales have distinctive callosities, roughened white patches of skin
+    on the head that form unique patterns researchers use to identify
+    individuals.
+  category: anatomy
+  source: https://www.fisheries.noaa.gov/insight/how-you-can-help-north-atlantic-right-whales
+
+- id: narw-calving-grounds
+  text: >
+    Calving grounds lie in shallow coastal waters off the southeastern United
+    States, especially off the Florida and Georgia coast.
+  category: reproduction
+  source: https://www.fisheries.noaa.gov/national/endangered-species-conservation/north-atlantic-right-whale-calving-season-2026
+
+- id: narw-copepod-diet
+  text: >
+    As baleen whales, they feed by filtering tiny prey, especially copepods,
+    from seawater through their long, fine baleen plates.
+  category: diet
+  source: https://ocean.si.edu/ocean-life/marine-mammals/north-atlantic-right-whale
+
+- id: narw-size
+  text: >
+    Adults can grow to about 16.8 meters (55 feet) long and weigh roughly 70
+    tons, making them among the largest animals on Earth.
+  category: anatomy
+  source: https://ocean.si.edu/ocean-life/marine-mammals/north-atlantic-right-whale
+
+- id: narw-lifespan
+  text: >
+    North Atlantic right whales are long-lived, with lifespans of about 70
+    years or more and some individuals possibly reaching 100 years.
+  category: trivia
+  source: https://ocean.si.edu/ocean-life/marine-mammals/north-atlantic-right-whale
+
+- id: narw-vocalizations
+  text: >
+    They produce a variety of vocalizations, including upcalls and moans, used
+    for communication and studied to monitor behavior and population status.
+  category: communication
+  source: https://ocean.si.edu/ocean-life/marine-mammals/north-atlantic-right-whale
+
+- id: narw-migration
+  text: >
+    They migrate seasonally, heading south in winter to calving areas off the
+    southeastern U.S. and north in spring to feeding grounds off New England
+    and the Bay of Fundy.
+  category: behavior
+  source: https://en.wikipedia.org/wiki/North_Atlantic_right_whale
+
+- id: narw-calving-interval
+  text: >
+    Females reproduce slowly, usually giving birth to a single calf every 3 to
+    5 years, which limits how fast the population can recover.
+  category: reproduction
+  source: https://ocean.si.edu/ocean-life/marine-mammals/north-atlantic-right-whale
+
+- id: narw-photo-id-consortium
+  text: >
+    The North Atlantic Right Whale Consortium uses photo-identification of
+    unique callosity patterns to track individual whales across decades.
+  category: trivia
+  source: https://www.fisheries.noaa.gov/insight/how-you-can-help-north-atlantic-right-whales

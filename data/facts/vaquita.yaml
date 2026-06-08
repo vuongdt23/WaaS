@@ -1,0 +1,104 @@
+- id: vaquita-smallest-cetacean
+  text: >
+    Adult vaquitas top out at about 1.5 meters in females and 1.4 meters in males, making
+    them the smallest cetaceans on the planet.
+  category: anatomy
+  source: https://en.wikipedia.org/wiki/Vaquita
+- id: vaquita-eyeshadow-and-lipstick
+  text: >
+    Vaquitas have dark rings around their eyes and dark patches on their lips connected by
+    a thin line, giving them the appearance of wearing eyeshadow and lipstick.
+  category: anatomy
+  source: https://en.wikipedia.org/wiki/Vaquita
+- id: vaquita-name-means-little-cow
+  text: >
+    The name "vaquita" means "little cow" in Spanish, and the porpoise is also locally
+    known as the cochito or Gulf of California harbor porpoise.
+  category: trivia
+  source: https://ocean.si.edu/ocean-life/marine-mammals/vanishing-vaquita
+- id: vaquita-gulf-of-california-endemic
+  text: >
+    Vaquitas are found nowhere else on Earth except the northernmost Gulf of California in
+    Mexico, holding the smallest range of any whale, dolphin, or porpoise.
+  category: habitat
+  source: https://iwc.int/resources/media-resources/news/vaquita-increasing-concern-for-the-mexicos-little-
+- id: vaquita-population-around-ten
+  text: >
+    NOAA estimates roughly ten vaquitas remain in the Gulf of California, making the species
+    the most endangered marine mammal in the world.
+  category: history
+  source: https://www.fisheries.noaa.gov/feature-story/endangered-vaquita-porpoise-not-doomed-extinction-inbreeding-depression
+- id: vaquita-population-crash
+  text: >
+    The vaquita population fell from about 570 individuals in 1997 to roughly 10 by 2018,
+    a decline of more than 90 percent in under two decades.
+  category: history
+  source: https://iwc.int/resources/media-resources/news/first-ever-extinction-alert-from-the-iwc
+- id: vaquita-totoaba-bladder-trade
+  text: >
+    Illegal fishing for the totoaba, a large endangered fish whose swim bladder fetches
+    high prices on Chinese black markets, drives the gillnet use that kills vaquitas.
+  category: history
+  source: https://iwc.int/news/without-action-the-vaquita-will-be-gone-the-second
+- id: vaquita-gillnet-bycatch
+  text: >
+    NOAA Fisheries identifies entanglement and drowning in illegal gillnets, especially
+    those set for totoaba and shrimp, as the primary threat pushing vaquitas toward extinction.
+  category: history
+  source: https://www.fisheries.noaa.gov/species/vaquita
+- id: vaquita-described-1958
+  text: >
+    The vaquita was first described as a species in 1958 by Norris and McFarland, based
+    on skulls collected along the shores of the Gulf of California.
+  category: history
+  source: https://en.wikipedia.org/wiki/Vaquita
+- id: vaquita-shy-and-elusive
+  text: >
+    Vaquitas are notoriously shy, surfacing slowly and barely disturbing the water, which
+    makes them extremely difficult to spot even for experienced researchers.
+  category: behavior
+  source: https://ocean.si.edu/ocean-life/marine-mammals/vanishing-vaquita
+- id: vaquita-diet
+  text: >
+    Vaquitas feed on small fish, squid, and crustaceans found in the shallow, productive
+    waters of the upper Gulf of California.
+  category: diet
+  source: https://en.wikipedia.org/wiki/Vaquita
+- id: vaquita-tiny-range
+  text: >
+    Recent surveys show vaquitas now occupy a sliver of the upper Gulf only about 15 miles
+    long and half a mile wide, the tiniest active range of any cetacean.
+  category: habitat
+  source: https://www.nationalgeographic.com/animals/article/vaquita-porpoises-could-genetically-recover-if-fishing-ends
+- id: vaquita-slow-reproduction
+  text: >
+    Female vaquitas give birth to a single calf after a gestation of roughly 10 to 11 months,
+    and typically only calve every two years, which limits how quickly the population can recover.
+  category: reproduction
+  source: https://en.wikipedia.org/wiki/Vaquita
+- id: vaquita-tall-triangular-fin
+  text: >
+    Compared with other porpoises, vaquitas have an unusually tall, triangular dorsal fin,
+    a feature that helps researchers identify them at sea.
+  category: anatomy
+  source: https://ocean.si.edu/ocean-life/marine-mammals/vanishing-vaquita
+- id: vaquita-vaquitacpr-failure
+  text: >
+    The 2017 VaquitaCPR project tried to capture vaquitas and shelter them in sea pens, but
+    was suspended after a captured female died, confirming that stopping gillnets is the
+    only viable rescue strategy.
+  category: history
+  source: https://en.wikipedia.org/wiki/Vaquita
+- id: vaquita-not-doomed-by-inbreeding
+  text: >
+    Genetic studies show vaquitas are not heavily burdened by inbreeding depression and
+    have a high probability of recovering if deaths in gillnets are immediately halted.
+  category: trivia
+  source: https://www.fisheries.noaa.gov/feature-story/endangered-vaquita-porpoise-not-doomed-extinction-inbreeding-depression
+- id: vaquita-high-frequency-clicks
+  text: >
+    Like other porpoises, vaquitas navigate and hunt using high-frequency echolocation
+    clicks well into the ultrasonic range, which researchers exploit with acoustic monitors
+    to track the dwindling population.
+  category: communication
+  source: https://en.wikipedia.org/wiki/Vaquita
