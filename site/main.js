@@ -152,8 +152,9 @@ function renderEndpointBody(li, body) {
 
   body.replaceChildren();
 
+  let paramsRow = null;
   if (ep.params.length) {
-    const paramsRow = document.createElement("div");
+    paramsRow = document.createElement("div");
     paramsRow.className = "ep-params";
     for (const p of ep.params) {
       paramsRow.append(...renderParamControl(p));
@@ -161,9 +162,99 @@ function renderEndpointBody(li, body) {
     body.appendChild(paramsRow);
   }
 
-  const placeholder = document.createElement("div");
-  placeholder.textContent = "(Try button + response come in Task 6)";
-  body.appendChild(placeholder);
+  const runRow = document.createElement("div");
+  runRow.className = "ep-run-row";
+
+  const tryBtn = document.createElement("button");
+  tryBtn.type = "button";
+  tryBtn.className = "ep-try";
+  tryBtn.textContent = "Try";
+
+  const urlSpan = document.createElement("span");
+  urlSpan.className = "ep-url";
+
+  runRow.append(tryBtn, urlSpan);
+  body.appendChild(runRow);
+
+  const pre = document.createElement("pre");
+  pre.className = "ep-response is-empty";
+  pre.textContent = "Click Try to fetch.";
+  body.appendChild(pre);
+
+  const actions = document.createElement("div");
+  actions.className = "ep-actions";
+  const copyBtn = document.createElement("button");
+  copyBtn.type = "button";
+  copyBtn.textContent = "Copy curl";
+  copyBtn.disabled = true;
+  const openBtn = document.createElement("button");
+  openBtn.type = "button";
+  openBtn.textContent = "Open in new tab";
+  openBtn.disabled = true;
+  actions.append(copyBtn, openBtn);
+  body.appendChild(actions);
+
+  const updateUrl = () => {
+    const url = resolveUrl(ep.path, paramsRow);
+    urlSpan.textContent = `GET ${url}`;
+    return url;
+  };
+  updateUrl();
+
+  if (paramsRow) {
+    paramsRow.addEventListener("input", updateUrl);
+    paramsRow.addEventListener("change", updateUrl);
+  }
+
+  let lastUrl = null;
+  tryBtn.addEventListener("click", async () => {
+    const url = updateUrl();
+    lastUrl = url;
+    tryBtn.disabled = true;
+    copyBtn.disabled = true;
+    openBtn.disabled = true;
+    pre.classList.remove("is-error", "is-empty");
+    pre.textContent = "…";
+    try {
+      const res = await fetch(url);
+      if (!res.ok) {
+        const text = await res.text();
+        pre.classList.add("is-error");
+        pre.textContent = `HTTP ${res.status} ${res.statusText}\n\n${text}`;
+      } else {
+        const data = await res.json();
+        pre.textContent = JSON.stringify(data, null, 2);
+        copyBtn.disabled = false;
+        openBtn.disabled = false;
+      }
+    } catch (err) {
+      pre.classList.add("is-error");
+      pre.textContent = String(err);
+    } finally {
+      tryBtn.disabled = false;
+    }
+  });
+
+  copyBtn.addEventListener("click", () => {
+    if (lastUrl) copyText(`curl ${lastUrl}`);
+  });
+  openBtn.addEventListener("click", () => {
+    if (lastUrl) window.open(lastUrl, "_blank", "noopener");
+  });
+}
+
+function resolveUrl(template, paramsRow) {
+  let resolved = template;
+  if (paramsRow) {
+    paramsRow.querySelectorAll("[data-param-name]").forEach((el) => {
+      const name = el.dataset.paramName;
+      const value = encodeURIComponent(el.value || "");
+      resolved = resolved.replace(`{${name}}`, value);
+    });
+  }
+  const base = originBase();
+  const rel = resolved.startsWith("/") ? resolved.slice(1) : resolved;
+  return `${base}${rel}`;
 }
 
 function renderParamControl(param) {
