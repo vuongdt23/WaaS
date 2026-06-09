@@ -46,15 +46,71 @@
 
     <section id="docs" class="endpoints">
       <h2 class="endpoints-heading">Endpoints</h2>
-      <ul class="endpoint-list">
-        <li><code class="endpoint" data-curl>GET /api/facts.json</code><span class="endpoint-desc">all facts</span></li>
-        <li><code class="endpoint" data-curl>GET /api/facts/{id}.json</code><span class="endpoint-desc">one fact</span></li>
-        <li><code class="endpoint" data-curl>GET /api/random.json</code><span class="endpoint-desc">random (rotates per deploy)</span></li>
-        <li><code class="endpoint" data-curl>GET /api/fact-of-the-day/{MM-DD}.json</code><span class="endpoint-desc">deterministic by date</span></li>
-        <li><code class="endpoint" data-curl>GET /api/species.json</code><span class="endpoint-desc">species index</span></li>
-        <li><code class="endpoint" data-curl>GET /api/species/{slug}.json</code><span class="endpoint-desc">species + its facts</span></li>
-        <li><code class="endpoint" data-curl>GET /api/categories.json</code><span class="endpoint-desc">category list</span></li>
-        <li><code class="endpoint" data-curl>GET /api/index.json</code><span class="endpoint-desc">meta</span></li>
+      <ul class="endpoint-list" id="endpoint-list">
+        <li class="ep" data-path="/api/facts.json">
+          <button type="button" class="ep-head" aria-expanded="false">
+            <span class="ep-path">GET /api/facts.json</span>
+            <span class="ep-desc">all facts</span>
+            <span class="ep-chevron" aria-hidden="true">▸</span>
+          </button>
+          <div class="ep-body" hidden></div>
+        </li>
+        <li class="ep" data-path="/api/facts/{id}.json">
+          <button type="button" class="ep-head" aria-expanded="false">
+            <span class="ep-path">GET /api/facts/{id}.json</span>
+            <span class="ep-desc">one fact</span>
+            <span class="ep-chevron" aria-hidden="true">▸</span>
+          </button>
+          <div class="ep-body" hidden></div>
+        </li>
+        <li class="ep" data-path="/api/random.json">
+          <button type="button" class="ep-head" aria-expanded="false">
+            <span class="ep-path">GET /api/random.json</span>
+            <span class="ep-desc">random (rotates per deploy)</span>
+            <span class="ep-chevron" aria-hidden="true">▸</span>
+          </button>
+          <div class="ep-body" hidden></div>
+        </li>
+        <li class="ep" data-path="/api/fact-of-the-day/{MM-DD}.json">
+          <button type="button" class="ep-head" aria-expanded="false">
+            <span class="ep-path">GET /api/fact-of-the-day/{MM-DD}.json</span>
+            <span class="ep-desc">deterministic by date</span>
+            <span class="ep-chevron" aria-hidden="true">▸</span>
+          </button>
+          <div class="ep-body" hidden></div>
+        </li>
+        <li class="ep" data-path="/api/species.json">
+          <button type="button" class="ep-head" aria-expanded="false">
+            <span class="ep-path">GET /api/species.json</span>
+            <span class="ep-desc">species index</span>
+            <span class="ep-chevron" aria-hidden="true">▸</span>
+          </button>
+          <div class="ep-body" hidden></div>
+        </li>
+        <li class="ep" data-path="/api/species/{slug}.json">
+          <button type="button" class="ep-head" aria-expanded="false">
+            <span class="ep-path">GET /api/species/{slug}.json</span>
+            <span class="ep-desc">species + its facts</span>
+            <span class="ep-chevron" aria-hidden="true">▸</span>
+          </button>
+          <div class="ep-body" hidden></div>
+        </li>
+        <li class="ep" data-path="/api/categories.json">
+          <button type="button" class="ep-head" aria-expanded="false">
+            <span class="ep-path">GET /api/categories.json</span>
+            <span class="ep-desc">category list</span>
+            <span class="ep-chevron" aria-hidden="true">▸</span>
+          </button>
+          <div class="ep-body" hidden></div>
+        </li>
+        <li class="ep" data-path="/api/index.json">
+          <button type="button" class="ep-head" aria-expanded="false">
+            <span class="ep-path">GET /api/index.json</span>
+            <span class="ep-desc">meta</span>
+            <span class="ep-chevron" aria-hidden="true">▸</span>
+          </button>
+          <div class="ep-body" hidden></div>
+        </li>
       </ul>
     </section>
 
