@@ -3,6 +3,21 @@ const $ = (sel) => document.querySelector(sel);
 let cache = [];
 let speciesIndex = new Map();
 
+const ENDPOINTS = [
+  { path: "/api/facts.json",                   params: [] },
+  { path: "/api/facts/{id}.json",              params: [{ name: "id",    type: "id"   }] },
+  { path: "/api/random.json",                  params: [] },
+  { path: "/api/fact-of-the-day/{MM-DD}.json", params: [{ name: "MM-DD", type: "date" }] },
+  { path: "/api/species.json",                 params: [] },
+  { path: "/api/species/{slug}.json",          params: [{ name: "slug",  type: "slug" }] },
+  { path: "/api/categories.json",              params: [] },
+  { path: "/api/index.json",                   params: [] },
+];
+
+function endpointFor(path) {
+  return ENDPOINTS.find((e) => e.path === path);
+}
+
 function pickRandom(arr, exclude) {
   if (arr.length <= 1) return arr[0];
   let pick;
@@ -61,11 +76,6 @@ function originBase() {
   return location.origin + path;
 }
 
-function curlForEndpoint(endpointText) {
-  const path = endpointText.replace(/^GET\s+/, "");
-  return `curl ${originBase()}${path.startsWith("/") ? path.slice(1) : path}`;
-}
-
 async function load() {
   try {
     const [facts, species] = await Promise.all([
@@ -100,9 +110,31 @@ function wireUp() {
     $("#curl-text").textContent = `curl ${originBase()}api/random.json`;
   }
 
-  document.querySelectorAll(".endpoint[data-curl]").forEach((el) => {
-    el.addEventListener("click", () => copyText(curlForEndpoint(el.textContent)));
+  document.querySelectorAll(".ep").forEach((li) => {
+    const head = li.querySelector(".ep-head");
+    head.addEventListener("click", () => toggleEndpoint(li));
   });
+}
+
+function toggleEndpoint(li) {
+  const head = li.querySelector(".ep-head");
+  const body = li.querySelector(".ep-body");
+  const isOpen = head.getAttribute("aria-expanded") === "true";
+  if (isOpen) {
+    head.setAttribute("aria-expanded", "false");
+    body.hidden = true;
+    return;
+  }
+  if (!body.dataset.rendered) {
+    renderEndpointBody(li, body);
+    body.dataset.rendered = "1";
+  }
+  head.setAttribute("aria-expanded", "true");
+  body.hidden = false;
+}
+
+function renderEndpointBody(li, body) {
+  body.textContent = "(body content comes in Task 5/6)";
 }
 
 wireUp();
