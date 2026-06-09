@@ -76,6 +76,18 @@ function originBase() {
   return location.origin + path;
 }
 
+function todayMMDD() {
+  const now = new Date();
+  const mm = String(now.getUTCMonth() + 1).padStart(2, "0");
+  const dd = String(now.getUTCDate()).padStart(2, "0");
+  return `${mm}-${dd}`;
+}
+
+function randomFactId() {
+  if (!cache.length) return "";
+  return cache[Math.floor(Math.random() * cache.length)].id;
+}
+
 async function load() {
   try {
     const [facts, species] = await Promise.all([
@@ -134,7 +146,78 @@ function toggleEndpoint(li) {
 }
 
 function renderEndpointBody(li, body) {
-  body.textContent = "(body content comes in Task 5/6)";
+  const path = li.dataset.path;
+  const ep = endpointFor(path);
+  if (!ep) return;
+
+  body.replaceChildren();
+
+  if (ep.params.length) {
+    const paramsRow = document.createElement("div");
+    paramsRow.className = "ep-params";
+    for (const p of ep.params) {
+      paramsRow.append(...renderParamControl(p));
+    }
+    body.appendChild(paramsRow);
+  }
+
+  const placeholder = document.createElement("div");
+  placeholder.textContent = "(Try button + response come in Task 6)";
+  body.appendChild(placeholder);
+}
+
+function renderParamControl(param) {
+  const label = document.createElement("label");
+  label.textContent = `${param.name}:`;
+  label.htmlFor = `ep-input-${param.name}-${Math.random().toString(36).slice(2, 8)}`;
+
+  if (param.type === "slug") {
+    const select = document.createElement("select");
+    select.id = label.htmlFor;
+    select.dataset.paramName = param.name;
+    const slugs = [...speciesIndex.keys()].sort();
+    for (const slug of slugs) {
+      const opt = document.createElement("option");
+      opt.value = slug;
+      opt.textContent = slug;
+      select.appendChild(opt);
+    }
+    return [label, select];
+  }
+
+  if (param.type === "id") {
+    const input = document.createElement("input");
+    input.type = "text";
+    input.id = label.htmlFor;
+    input.dataset.paramName = param.name;
+    input.value = randomFactId();
+    input.size = 28;
+
+    const reroll = document.createElement("button");
+    reroll.type = "button";
+    reroll.className = "ep-reroll";
+    reroll.title = "Random fact id";
+    reroll.textContent = "↻";
+    reroll.addEventListener("click", () => {
+      input.value = randomFactId();
+    });
+
+    return [label, input, reroll];
+  }
+
+  if (param.type === "date") {
+    const input = document.createElement("input");
+    input.type = "text";
+    input.id = label.htmlFor;
+    input.dataset.paramName = param.name;
+    input.value = todayMMDD();
+    input.pattern = "\\d{2}-\\d{2}";
+    input.placeholder = "MM-DD";
+    input.size = 8;
+    return [label, input];
+  }
+
+  return [];
 }
 
 wireUp();
